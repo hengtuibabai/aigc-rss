@@ -83,6 +83,7 @@ const handleFeed = () => {
       handleCommit()
       utils.logSuccess(`更新成功，更新内容 ${newData.length} 条`)
     } else {
+	    handleCommit()
       utils.logSuccess("无需更新")
     }
     rssJson = null
