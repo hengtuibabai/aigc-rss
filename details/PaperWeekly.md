@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2024-03-22 06:00:08。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-03-25 06:00:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## PaperWeekly
 
 
 
 
+- [2024-03-24-墨大联合新华社等发布基准框架，全面评估大模型的新闻写作能力和安全依从性](https://posts.careerengine.us/p/660026a4540bdd07c2282fbb) 
+- [2024-03-24-中科院，CMU，Meta等联合出品：去除LLM先验对多模态大模型的负面影响](https://posts.careerengine.us/p/660026a5540bdd07c2282fc5) 
+- [2024-03-22-WWW-2024-|-港理工等联合提出线性时间图神经网络，适用于大规模推荐系统](https://posts.careerengine.us/p/65fd1856c5ea035f44130e4b) 
+- [2024-03-22-博后招募-|-香港理工大学姚岱教授课题组招聘人工智能方向博士后](https://posts.careerengine.us/p/65fd1855c5ea035f44130e43) 
+- [2024-03-22-曾经火出圈的提示工程要死了吗？危！大模型能自己优化Prompt了](https://posts.careerengine.us/p/65fd1855c5ea035f44130e33) 
+- [2024-03-22-不会吧！还有人不知道小红书25届实习生招聘开始了吗！](https://posts.careerengine.us/p/65fd1841ced7465ee56a4da4) 
 - [2024-03-21-AAAI录用率涨至23.75％！大模型这些方向再次卷疯了](https://posts.careerengine.us/p/65fc2e008aeb8f5dda718495) 
 - [2024-03-21-能否在追问中坚持判断？揭秘大语言模型的判断一致性挑战](https://posts.careerengine.us/p/65fc2e008aeb8f5dda71848d) 
 - [2024-03-21-港科大（广州）开源智慧交通新成果，用AI大模型控制红绿灯](https://posts.careerengine.us/p/65fc2e0efec9fa5e0c849276) 

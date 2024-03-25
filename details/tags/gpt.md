@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-03-22 06:00:08。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-03-25 15:00:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## GPT
 
@@ -7,6 +7,7 @@
 
 
 
+- [2024-03-22-今天起，Windows可以一键召唤GPT-4了](https://posts.careerengine.us/p/65fd0dd9c6c69924ff860987) 
 - [2024-03-20-奥特曼回应一切：GPT-5、董事会宫斗、Ilya当时看到了什么](https://posts.careerengine.us/p/65fa697772267136cc6bcc3b) 
 - [2024-02-07-无需RLHF显著提升GPT-4/Llama2性能，北大团队提出Aligner对齐新范式](https://posts.careerengine.us/p/65c31f91a994694f352284c4) 
 - [2024-02-06-俄罗斯小哥ChatGPT找女友：聊了5239个女生，现在订婚了](https://posts.careerengine.us/p/65c1ba3e6e03e777d245ec38) 
