@@ -1,11 +1,11 @@
 ##
 
-:alarm_clock: 更新时间: 2024-03-27 08:00:06，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-03-27 12:00:08，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
-- [量子位](#量子位)  
+- [机器之心](#机器之心)  
+- [量子位](#量子位)![](/assets/dot.png)   
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
@@ -21,11 +21,11 @@
 </summary>
 
 
-- [2024-03-27-今年，中国AI大模型产业发展看这些](https://posts.careerengine.us/p/6603a30506efd977be8f096c) ![](/assets/new.png)  
-- [2024-03-27-46秒AI生成真人视频爆火，遭在线打假「换口型、声音」](https://posts.careerengine.us/p/6603a30506efd977be8f0964) ![](/assets/new.png)  
-- [2024-03-27-两分钟1200帧的长视频生成器StreamingT2V来了，代码将开源](https://posts.careerengine.us/p/6603a30506efd977be8f095b) ![](/assets/new.png)  
-- [2024-03-27-详解Latte：去年底上线的全球首个开源文生视频DiT](https://posts.careerengine.us/p/6603a318a9351c78003f7a2a) ![](/assets/new.png)  
-- [2024-03-27-ICLR-2024-|-RLHF有了通用平台和基准，天大开源，专攻现实决策场景](https://posts.careerengine.us/p/6603a318a9351c78003f7a22) ![](/assets/new.png)  
+- [2024-03-27-今年，中国AI大模型产业发展看这些](https://posts.careerengine.us/p/6603a30506efd977be8f096c)  
+- [2024-03-27-46秒AI生成真人视频爆火，遭在线打假「换口型、声音」](https://posts.careerengine.us/p/6603a30506efd977be8f0964)  
+- [2024-03-27-两分钟1200帧的长视频生成器StreamingT2V来了，代码将开源](https://posts.careerengine.us/p/6603a30506efd977be8f095b)  
+- [2024-03-27-详解Latte：去年底上线的全球首个开源文生视频DiT](https://posts.careerengine.us/p/6603a318a9351c78003f7a2a)  
+- [2024-03-27-ICLR-2024-|-RLHF有了通用平台和基准，天大开源，专攻现实决策场景](https://posts.careerengine.us/p/6603a318a9351c78003f7a22)  
 - [2024-03-26-Stability-AI开源3B代码生成模型：可补全，还能Debug](https://posts.careerengine.us/p/6602a859dede501cd56a4c92)  
 - [2024-03-26-再谈复现-Sora：被仰望与被遗忘的](https://posts.careerengine.us/p/6602a847b9ca2d1c6d9972eb)  
 - [2024-03-26-智能体DS-Agent基于案例推理，让GPT-4数据科学任务接近100％](https://posts.careerengine.us/p/6602a847b9ca2d1c6d9972e3)  
@@ -52,26 +52,26 @@
 </summary>
 
 
-- [2024-03-26-Sora落入电影人之手！首批专业AI微短片火了，实现创意再无阻碍](https://posts.careerengine.us/p/660253667d871745de16e693)  
-- [2024-03-26-10秒整理搜索结果，脑图表格一键生成，网友：搜索终于有了该有的样子](https://posts.careerengine.us/p/660253667d871745de16e68b)  
-- [2024-03-26-马斯克脑机接口再造奇迹：瘫痪小伙意念玩赛车击败正常人，打破光标控制记录，产生271页宝贵数据](https://posts.careerengine.us/p/66025375b154c246180fea71)  
-- [2024-03-26-腾讯机器人研究登顶刊！能帮程序员安显示器，像真人一样协同干活](https://posts.careerengine.us/p/6602538300ec5046546fc3b0)  
+- [2024-03-27-一口气升级7个大模型SaaS应用，百度智能云：突出一个“开箱即用”](https://posts.careerengine.us/p/6603cce1408c025cd459945c) ![](/assets/new.png)  
+- [2024-03-27-拿CPU搞AI推理，谁给你的底气？](https://posts.careerengine.us/p/6603cce1408c025cd4599464) ![](/assets/new.png)  
+- [2024-03-27-Claude-3反超GPT-4竞技场登顶！小杯Haiku成开发者新宠：性价比无敌](https://posts.careerengine.us/p/6603ccf06a53a85d70c09008) ![](/assets/new.png)  
+- [2024-03-27-微软“去OpenAI化”引发高层洗牌：必应CEO被DeepMind联创挤跑！纳德拉会见Stable-Diffusion老板](https://posts.careerengine.us/p/6603ccf06a53a85d70c08fff) ![](/assets/new.png)  
+- [2024-03-27-AI美女广告让人难辨真假！博主被迫录视频自证：真的是AI](https://posts.careerengine.us/p/6603cd02b957cd5da8f1d4f9) ![](/assets/new.png)  
 - [2024-03-26-曹德旺投资百亿的大学突然换帅！前西安交大校长王树国上任，一周前师生夹道送别](https://posts.careerengine.us/p/66025394aaec8046c504e7fb)  
-- [2024-03-25-模型合并就进化，直接拿下SOTA！Transformer作者创业新成果火了](https://posts.careerengine.us/p/660103a39f95ae1f028f784b)  
-- [2024-03-25-兆级长文本，已是一线大模型机构标配能力丨上海AI-Lab林达华](https://posts.careerengine.us/p/660103a39f95ae1f028f7853)  
-- [2024-03-25-3140参数Grok-1推理加速3.8倍，PyTorch+HuggingFace版来了](https://posts.careerengine.us/p/66010394bd96e71ea14b98a5)  
-- [2024-03-25-《宫保鸡丁》杀入全球AI音乐榜前十！音乐版ChatGPT被玩疯了](https://posts.careerengine.us/p/66010394bd96e71ea14b98ad)  
+- [2024-03-26-腾讯机器人研究登顶刊！能帮程序员安显示器，像真人一样协同干活](https://posts.careerengine.us/p/6602538300ec5046546fc3b0)  
+- [2024-03-26-马斯克脑机接口再造奇迹：瘫痪小伙意念玩赛车击败正常人，打破光标控制记录，产生271页宝贵数据](https://posts.careerengine.us/p/66025375b154c246180fea71)  
+- [2024-03-26-10秒整理搜索结果，脑图表格一键生成，网友：搜索终于有了该有的样子](https://posts.careerengine.us/p/660253667d871745de16e68b)  
+- [2024-03-26-Sora落入电影人之手！首批专业AI微短片火了，实现创意再无阻碍](https://posts.careerengine.us/p/660253667d871745de16e693)  
 - [2024-03-25-OpenAI公关跳起来捂他嘴：Transformer作者公开承认参与Q*！｜八位作者最新专访](https://posts.careerengine.us/p/66010394bd96e71ea14b989d)  
-- [2024-03-24-报名开启｜2024中国AIGC产业峰会定档4月17日，首批嘉宾重磅来袭！](https://posts.careerengine.us/p/65ffa8c8e6bb9862664a29d9)  
-- [2024-03-24-Sora三巨头首次解密幕后信息，CTO：最快年内开放](https://posts.careerengine.us/p/65ffa8d827dc2262fa571010)  
+- [2024-03-25-《宫保鸡丁》杀入全球AI音乐榜前十！音乐版ChatGPT被玩疯了](https://posts.careerengine.us/p/66010394bd96e71ea14b98ad)  
+- [2024-03-25-3140参数Grok-1推理加速3.8倍，PyTorch+HuggingFace版来了](https://posts.careerengine.us/p/66010394bd96e71ea14b98a5)  
+- [2024-03-25-兆级长文本，已是一线大模型机构标配能力丨上海AI-Lab林达华](https://posts.careerengine.us/p/660103a39f95ae1f028f7853)  
+- [2024-03-25-模型合并就进化，直接拿下SOTA！Transformer作者创业新成果火了](https://posts.careerengine.us/p/660103a39f95ae1f028f784b)  
 - [2024-03-24-一年暴涨900％，这个华人成为黄院士门下最大赢家](https://posts.careerengine.us/p/65ffa8d927dc2262fa571019)  
-- [2024-03-23-Kimi连续宕机打醒巨头！阿里百度360连夜出手长文本，大模型商业化厮杀开始了](https://posts.careerengine.us/p/65fe85173003ff6e3571c38c)  
-- [2024-03-23-通用图大模型HiGPT：一己之力建模任何图结构关系！来自港大数据智能实验室&百度](https://posts.careerengine.us/p/65fe85163003ff6e3571c37c)  
+- [2024-03-24-Sora三巨头首次解密幕后信息，CTO：最快年内开放](https://posts.careerengine.us/p/65ffa8d827dc2262fa571010)  
+- [2024-03-24-报名开启｜2024中国AIGC产业峰会定档4月17日，首批嘉宾重磅来袭！](https://posts.careerengine.us/p/65ffa8c8e6bb9862664a29d9)  
 - [2024-03-23-Stable-Diffusion老板也跑了！核心研发已集体辞职，“稳定AI”乱成一锅粥](https://posts.careerengine.us/p/65fe85009da3866d7e59c84d)  
-- [2024-03-22-Sora复刻版来了，微软参与，华人团队打造](https://posts.careerengine.us/p/65fd16d7adffab56b4fba796)  
-- [2024-03-22-为什么说GPU再火，AI平台也少不了强力的CPU](https://posts.careerengine.us/p/65fd16d8adffab56b4fba7a6)  
-- [2024-03-22-游戏NPC“活”了，英伟达AI立大功](https://posts.careerengine.us/p/65fd16ebca39ff571a84550e)  
-- [2024-03-22-开源AI掌机爆火，首批预售2.5小时抢光！](https://posts.careerengine.us/p/65fd16ebca39ff571a845506)  
+- [2024-03-23-通用图大模型HiGPT：一己之力建模任何图结构关系！来自港大数据智能实验室&百度](https://posts.careerengine.us/p/65fe85163003ff6e3571c37c)  
 - [......【查看更多】......](/details/量子位.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
