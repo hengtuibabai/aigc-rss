@@ -1,11 +1,11 @@
 ##
 
-:alarm_clock: 更新时间: 2024-04-01 06:00:03，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-01 08:00:06，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)  
-- [量子位](#量子位)![](/assets/dot.png)   
+- [机器之心](#机器之心)![](/assets/dot.png)   
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
@@ -21,26 +21,26 @@
 </summary>
 
 
-- [2024-03-31-统一角色、百变场景，视频生成神器PixVerse被网友玩出了花，超强一致性成「杀招」](https://posts.careerengine.us/p/6608e976b313ba611ca6e0fe)  
-- [2024-03-31-全日程发布｜Sora之后的视频生成技术与应用](https://posts.careerengine.us/p/6608e976b313ba611ca6e0f6)  
-- [2024-03-31-CVPR-2024-|-让视频姿态Transformer变得飞速，北大提出高效三维人体姿态估计框架HoT](https://posts.careerengine.us/p/6608e9847218a46159d730ed)  
+- [2024-04-01-告别微软，姜大昕带领这支精英团队攀登Scaling-Law，万亿参数模型已有预览版](https://posts.careerengine.us/p/660a3eddacc34570c3ccaf6c) ![](/assets/new.png)  
+- [2024-04-01-AI行业买英伟达GPU，花的钱比赚的多17倍](https://posts.careerengine.us/p/660a3eef67c58e71352753e3) ![](/assets/new.png)  
+- [2024-04-01-比LoRA还快50％的微调方法来了！一张3090性能超越全参调优，UIUC联合LMFlow团队提出LISA](https://posts.careerengine.us/p/660a3eef67c58e71352753d3) ![](/assets/new.png)  
+- [2024-04-01-可编辑的DALL·E-3要来了？一句话就能PS图片](https://posts.careerengine.us/p/660a3eef67c58e71352753db) ![](/assets/new.png)  
+- [2024-04-01-ICLR-2024-|-鸡生蛋蛋生鸡？再论生成数据能否帮助模型训练](https://posts.careerengine.us/p/660a3f01bb2d25716a3d86dc) ![](/assets/new.png)  
 - [2024-03-31-此时此刻，两个Claude智能体正在无休止对话，无人干预](https://posts.careerengine.us/p/6608e992cf912d618605e7e4)  
-- [2024-03-30-OpenAI首次官宣语音项目，配音演员警报拉响](https://posts.careerengine.us/p/6607a261db21b13fc36ee05c)  
-- [2024-03-30-CVPR-2024-|-面部+肢体动画，一个框架搞定从音频生成数字人表情与动作](https://posts.careerengine.us/p/6607a25339d1063f7239883a)  
-- [2024-03-30-非侵入设备贴在脖子上，就能代替人类发声，研究登《自然通讯》](https://posts.careerengine.us/p/6607a25339d1063f7239884b)  
-- [2024-03-30-微软、OpenAI又搞大动作：斥资1000亿美元开发AI超算「星际之门」](https://posts.careerengine.us/p/6607a23e7704983efb7b32d7)  
+- [2024-03-31-CVPR-2024-|-让视频姿态Transformer变得飞速，北大提出高效三维人体姿态估计框架HoT](https://posts.careerengine.us/p/6608e9847218a46159d730ed)  
+- [2024-03-31-全日程发布｜Sora之后的视频生成技术与应用](https://posts.careerengine.us/p/6608e976b313ba611ca6e0f6)  
+- [2024-03-31-统一角色、百变场景，视频生成神器PixVerse被网友玩出了花，超强一致性成「杀招」](https://posts.careerengine.us/p/6608e976b313ba611ca6e0fe)  
 - [2024-03-30-吴恩达：别光盯着GPT-5，用GPT-4做个智能体可能提前达到GPT-5的效果](https://posts.careerengine.us/p/6607a23e7704983efb7b32df)  
-- [2024-03-29-AI创业吧！不缺计算资源那种](https://posts.careerengine.us/p/6606579087326c05b1a80360)  
-- [2024-03-29-Attention-isn’t-all-you-need！Mamba混合大模型开源：三倍Transformer吞吐量](https://posts.careerengine.us/p/6606579087326c05b1a80349)  
-- [2024-03-29-DeepMind终结大模型幻觉？标注事实比人类靠谱、还便宜20倍，全开源](https://posts.careerengine.us/p/660657a6ff47dd05fb6c0db0)  
-- [2024-03-29-Champ首发开源：人体视频生成新SOTA，5天斩获1k星，demo可玩](https://posts.careerengine.us/p/660657a6ff47dd05fb6c0da0)  
+- [2024-03-30-微软、OpenAI又搞大动作：斥资1000亿美元开发AI超算「星际之门」](https://posts.careerengine.us/p/6607a23e7704983efb7b32d7)  
+- [2024-03-30-非侵入设备贴在脖子上，就能代替人类发声，研究登《自然通讯》](https://posts.careerengine.us/p/6607a25339d1063f7239884b)  
+- [2024-03-30-CVPR-2024-|-面部+肢体动画，一个框架搞定从音频生成数字人表情与动作](https://posts.careerengine.us/p/6607a25339d1063f7239883a)  
+- [2024-03-30-OpenAI首次官宣语音项目，配音演员警报拉响](https://posts.careerengine.us/p/6607a261db21b13fc36ee05c)  
 - [2024-03-29-马斯克大模型Grok1.5来了：推理能力大升级，支持128k上下文](https://posts.careerengine.us/p/660657a7ff47dd05fb6c0db8)  
-- [2024-03-28-顶尖AI研究者，中国贡献26％：全球人才智库报告出炉](https://posts.careerengine.us/p/6604fac27813c618f7427743)  
-- [2024-03-28-CVPR-2024｜生成不了光线极强的图片？微信视觉团队有效解决扩散模型奇点问题](https://posts.careerengine.us/p/6604fac27813c618f742774b)  
-- [2024-03-28-霉霉说地道中文，口型、卡点几乎完美，网友：配音时代结束了？](https://posts.careerengine.us/p/6604fab371482b18c38a340d)  
-- [2024-03-28-看视频、画CAD、运动想像识别！75B的多模态工业大模型太能干了](https://posts.careerengine.us/p/6604faa5acc019188e5305a5)  
+- [2024-03-29-Champ首发开源：人体视频生成新SOTA，5天斩获1k星，demo可玩](https://posts.careerengine.us/p/660657a6ff47dd05fb6c0da0)  
+- [2024-03-29-DeepMind终结大模型幻觉？标注事实比人类靠谱、还便宜20倍，全开源](https://posts.careerengine.us/p/660657a6ff47dd05fb6c0db0)  
+- [2024-03-29-Attention-isn’t-all-you-need！Mamba混合大模型开源：三倍Transformer吞吐量](https://posts.careerengine.us/p/6606579087326c05b1a80349)  
+- [2024-03-29-AI创业吧！不缺计算资源那种](https://posts.careerengine.us/p/6606579087326c05b1a80360)  
 - [2024-03-28-开源大模型王座再易主，1320亿参数DBRX上线，基础、微调模型都有](https://posts.careerengine.us/p/6604faa5acc019188e5305ad)  
-- [2024-03-27-今年，中国AI大模型产业发展看这些](https://posts.careerengine.us/p/6603a30506efd977be8f096c)  
 - [......【查看更多】......](/details/机器之心.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -52,11 +52,11 @@
 </summary>
 
 
-- [2024-04-01-最神秘国产大模型团队冒泡，一出手就是万亿参数MoE，两款应用敞开玩](https://posts.careerengine.us/p/660a3d3d96df4068467f4a10) ![](/assets/new.png)  
-- [2024-04-01-机器狗首次阵亡！美国警方披露详情](https://posts.careerengine.us/p/660a3d4cb8e49168c3719894) ![](/assets/new.png)  
-- [2024-04-01-大模型实时打《街霸》捉对PK，GPT-4居然不敌3.5，新型Benchmark火了](https://posts.careerengine.us/p/660a3d4cb8e49168c371989c) ![](/assets/new.png)  
-- [2024-04-01-0门槛免费商用！孟子3-13B大模型正式开源，万亿token数据训练](https://posts.careerengine.us/p/660a3d5aa1a49f68f30e822f) ![](/assets/new.png)  
-- [2024-04-01-“计算机视觉女神”被IEEE期刊封杀](https://posts.careerengine.us/p/660a3d5aa1a49f68f30e8227) ![](/assets/new.png)  
+- [2024-04-01-最神秘国产大模型团队冒泡，一出手就是万亿参数MoE，两款应用敞开玩](https://posts.careerengine.us/p/660a3d3d96df4068467f4a10)  
+- [2024-04-01-机器狗首次阵亡！美国警方披露详情](https://posts.careerengine.us/p/660a3d4cb8e49168c3719894)  
+- [2024-04-01-大模型实时打《街霸》捉对PK，GPT-4居然不敌3.5，新型Benchmark火了](https://posts.careerengine.us/p/660a3d4cb8e49168c371989c)  
+- [2024-04-01-0门槛免费商用！孟子3-13B大模型正式开源，万亿token数据训练](https://posts.careerengine.us/p/660a3d5aa1a49f68f30e822f)  
+- [2024-04-01-“计算机视觉女神”被IEEE期刊封杀](https://posts.careerengine.us/p/660a3d5aa1a49f68f30e8227)  
 - [2024-03-31-上海交大新框架解锁CLIP长文本能力，多模态生成细节拿捏，图像检索能力显著提升](https://posts.careerengine.us/p/66092091d73fb76a9f0353da)  
 - [2024-03-31-百亿tokens免费额度，清华系明星AI公司的羊毛薅起来](https://posts.careerengine.us/p/66092083baba866a3d67039d)  
 - [2024-03-31-智谱再投AI-Infra清华系公司！已在大模型生态投资超13家企业](https://posts.careerengine.us/p/66092083baba866a3d6703a5)  
