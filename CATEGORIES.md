@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2024-04-04 06:00:08，:rocket: 更新条数: +7， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-04 08:00:16，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)  
-- [量子位](#量子位)![](/assets/dot.png)   
+- [机器之心](#机器之心)![](/assets/dot.png)   
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -21,26 +21,26 @@
 </summary>
 
 
-- [2024-04-03-国内首个AI程序员入职阿里云：专属工号AI001，KPI是一人写完公司20％代码](https://posts.careerengine.us/p/660d90f57e3cc36930866053)  
-- [2024-04-03-长文本之罪：Claude团队新越狱技术，Llama-2到GPT-4无一幸免](https://posts.careerengine.us/p/660d9104a16723699fae68e9)  
-- [2024-04-03-还得是抖音，字节推出竖屏视频理解数据集，入选CVPR2024](https://posts.careerengine.us/p/660d9116a4f73069e2e35f45)  
-- [2024-04-03-华为诺亚频域LLM「帝江」：仅需1/50训练成本，7B模型媲美LLaMA，推理加速5倍](https://posts.careerengine.us/p/660d9116a4f73069e2e35f56)  
+- [2024-04-04-ChatGPT现在能帮你P图了，只需简单说几个字](https://posts.careerengine.us/p/660e25639f0c7305e761bac4) ![](/assets/new.png)  
+- [2024-04-04-马斯克造大模型，从特斯拉连挖高管](https://posts.careerengine.us/p/660e25746a7449061d8beed3) ![](/assets/new.png)  
+- [2024-04-04-让AI进入物理世界，首届中国具身智能大会展望智能新纪元](https://posts.careerengine.us/p/660e25746a7449061d8beeca) ![](/assets/new.png)  
+- [2024-04-04-CVPR-2024满分论文，英伟达开源BOP排行榜6D物体姿态第一名方法](https://posts.careerengine.us/p/660e25851067e5066c5d1498) ![](/assets/new.png)  
+- [2024-04-04-弱智吧：大模型变聪明，有我一份贡献](https://posts.careerengine.us/p/660e25851067e5066c5d148f) ![](/assets/new.png)  
 - [2024-04-03-开源版AI程序员来了：GPT-4加持，能力比肩Devin，一天1.4k-Star](https://posts.careerengine.us/p/660d9116a4f73069e2e35f4d)  
-- [2024-04-02-发展新质生产力，金融行业如何释放AI「模」力？](https://posts.careerengine.us/p/660b76c64194253bebc30de4)  
-- [2024-04-02-现在，ChatGPT不注册登录也能免费用了](https://posts.careerengine.us/p/660b76c64194253bebc30dd4)  
-- [2024-04-02-苹果AI放大招？新设备端模型超过GPT-4，有望拯救Siri](https://posts.careerengine.us/p/660b76c64194253bebc30ddc)  
-- [2024-04-02-音乐ChatGPT时刻来临！「天工SkyMusic」音乐大模型今日启动邀测](https://posts.careerengine.us/p/660b76b8de22153bab46a879)  
+- [2024-04-03-华为诺亚频域LLM「帝江」：仅需1/50训练成本，7B模型媲美LLaMA，推理加速5倍](https://posts.careerengine.us/p/660d9116a4f73069e2e35f56)  
+- [2024-04-03-还得是抖音，字节推出竖屏视频理解数据集，入选CVPR2024](https://posts.careerengine.us/p/660d9116a4f73069e2e35f45)  
+- [2024-04-03-长文本之罪：Claude团队新越狱技术，Llama-2到GPT-4无一幸免](https://posts.careerengine.us/p/660d9104a16723699fae68e9)  
+- [2024-04-03-国内首个AI程序员入职阿里云：专属工号AI001，KPI是一人写完公司20％代码](https://posts.careerengine.us/p/660d90f57e3cc36930866053)  
 - [2024-04-02-叠衣服、擦案板、冲果汁，能做家务的国产机器人终于要来了](https://posts.careerengine.us/p/660b76aad1092a3b6bf983fc)  
-- [2024-04-01-告别微软，姜大昕带领这支精英团队攀登Scaling-Law，万亿参数模型已有预览版](https://posts.careerengine.us/p/660a3eddacc34570c3ccaf6c)  
-- [2024-04-01-AI行业买英伟达GPU，花的钱比赚的多17倍](https://posts.careerengine.us/p/660a3eef67c58e71352753e3)  
-- [2024-04-01-比LoRA还快50％的微调方法来了！一张3090性能超越全参调优，UIUC联合LMFlow团队提出LISA](https://posts.careerengine.us/p/660a3eef67c58e71352753d3)  
-- [2024-04-01-可编辑的DALL·E-3要来了？一句话就能PS图片](https://posts.careerengine.us/p/660a3eef67c58e71352753db)  
+- [2024-04-02-音乐ChatGPT时刻来临！「天工SkyMusic」音乐大模型今日启动邀测](https://posts.careerengine.us/p/660b76b8de22153bab46a879)  
+- [2024-04-02-苹果AI放大招？新设备端模型超过GPT-4，有望拯救Siri](https://posts.careerengine.us/p/660b76c64194253bebc30ddc)  
+- [2024-04-02-现在，ChatGPT不注册登录也能免费用了](https://posts.careerengine.us/p/660b76c64194253bebc30dd4)  
+- [2024-04-02-发展新质生产力，金融行业如何释放AI「模」力？](https://posts.careerengine.us/p/660b76c64194253bebc30de4)  
 - [2024-04-01-ICLR-2024-|-鸡生蛋蛋生鸡？再论生成数据能否帮助模型训练](https://posts.careerengine.us/p/660a3f01bb2d25716a3d86dc)  
-- [2024-03-31-此时此刻，两个Claude智能体正在无休止对话，无人干预](https://posts.careerengine.us/p/6608e992cf912d618605e7e4)  
-- [2024-03-31-CVPR-2024-|-让视频姿态Transformer变得飞速，北大提出高效三维人体姿态估计框架HoT](https://posts.careerengine.us/p/6608e9847218a46159d730ed)  
-- [2024-03-31-全日程发布｜Sora之后的视频生成技术与应用](https://posts.careerengine.us/p/6608e976b313ba611ca6e0f6)  
-- [2024-03-31-统一角色、百变场景，视频生成神器PixVerse被网友玩出了花，超强一致性成「杀招」](https://posts.careerengine.us/p/6608e976b313ba611ca6e0fe)  
-- [2024-03-30-吴恩达：别光盯着GPT-5，用GPT-4做个智能体可能提前达到GPT-5的效果](https://posts.careerengine.us/p/6607a23e7704983efb7b32df)  
+- [2024-04-01-可编辑的DALL·E-3要来了？一句话就能PS图片](https://posts.careerengine.us/p/660a3eef67c58e71352753db)  
+- [2024-04-01-比LoRA还快50％的微调方法来了！一张3090性能超越全参调优，UIUC联合LMFlow团队提出LISA](https://posts.careerengine.us/p/660a3eef67c58e71352753d3)  
+- [2024-04-01-AI行业买英伟达GPU，花的钱比赚的多17倍](https://posts.careerengine.us/p/660a3eef67c58e71352753e3)  
+- [2024-04-01-告别微软，姜大昕带领这支精英团队攀登Scaling-Law，万亿参数模型已有预览版](https://posts.careerengine.us/p/660a3eddacc34570c3ccaf6c)  
 - [......【查看更多】......](/details/机器之心.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -52,10 +52,10 @@
 </summary>
 
 
-- [2024-04-04-弱智吧竟成最佳中文AI训练数据？！中科院等：8项测试第一，远超知乎豆瓣小红书](https://posts.careerengine.us/p/660e2665e0f6d50abddfcd2c) ![](/assets/new.png)  
-- [2024-04-04-英伟达AI新课爆火！免费学习，干货满满](https://posts.careerengine.us/p/660e2665e0f6d50abddfcd3d) ![](/assets/new.png)  
-- [2024-04-04-AIGC还是二刺猿会玩：捏娃社区爆火，有脑洞就能当同人大佬](https://posts.careerengine.us/p/660e2665e0f6d50abddfcd34) ![](/assets/new.png)  
-- [2024-04-04-峰会报名中｜第二波嘉宾已就位，距离4月17日仅有两周](https://posts.careerengine.us/p/660e267794ca4d0b13f35abb) ![](/assets/new.png)  
+- [2024-04-04-弱智吧竟成最佳中文AI训练数据？！中科院等：8项测试第一，远超知乎豆瓣小红书](https://posts.careerengine.us/p/660e2665e0f6d50abddfcd2c)  
+- [2024-04-04-英伟达AI新课爆火！免费学习，干货满满](https://posts.careerengine.us/p/660e2665e0f6d50abddfcd3d)  
+- [2024-04-04-AIGC还是二刺猿会玩：捏娃社区爆火，有脑洞就能当同人大佬](https://posts.careerengine.us/p/660e2665e0f6d50abddfcd34)  
+- [2024-04-04-峰会报名中｜第二波嘉宾已就位，距离4月17日仅有两周](https://posts.careerengine.us/p/660e267794ca4d0b13f35abb)  
 - [2024-04-02-ChatGPT也在评审你的顶会投稿，斯坦福新研究捅了马蜂窝，“这下闭环了”](https://posts.careerengine.us/p/660b560bc976a0192c9470e4)  
 - [2024-04-02-今天起，ChatGPT无需注册就能用了！](https://posts.careerengine.us/p/660b55fdbc834718a2bb087b)  
 - [2024-04-01-最神秘国产大模型团队冒泡，一出手就是万亿参数MoE，两款应用敞开玩](https://posts.careerengine.us/p/660a3d3d96df4068467f4a10)  
@@ -176,9 +176,9 @@
 </summary>
 
 
-- [2024-04-04-用-AI-面试员工的企业，知道打工人在想什么吗？！](https://posts.careerengine.us/p/660e3c6547632e7cf1c02018) ![](/assets/new.png)  
-- [2024-04-04-专访华润银行：中小银行如何突围“数据治理”的层层障碍？](https://posts.careerengine.us/p/660e3c7448c8cf7d25928fb1) ![](/assets/new.png)  
-- [2024-04-03-被性别歧视、陷经济窘境，AI女神李飞飞自述：我要打破算法中的偏见](https://posts.careerengine.us/p/660e3df45433b205f4e18105) ![](/assets/new.png)  
+- [2024-04-04-用-AI-面试员工的企业，知道打工人在想什么吗？！](https://posts.careerengine.us/p/660e3c6547632e7cf1c02018)  
+- [2024-04-04-专访华润银行：中小银行如何突围“数据治理”的层层障碍？](https://posts.careerengine.us/p/660e3c7448c8cf7d25928fb1)  
+- [2024-04-03-被性别歧视、陷经济窘境，AI女神李飞飞自述：我要打破算法中的偏见](https://posts.careerengine.us/p/660e3df45433b205f4e18105)  
 - [2024-04-02-全日程发布，Sora-之后的视频生成技术与应用｜-Q推荐](https://posts.careerengine.us/p/660b812c48fb766ee766ef8f)  
 - [2024-04-02-15-秒音频即可“复制”原声！但OpenAI-担心新语音模型被滥用而限制发行](https://posts.careerengine.us/p/660b812c48fb766ee766ef9f)  
 - [2024-04-02-ChatGPT免注册让官网挂了？沃顿教授：OpenAI-做了错误的决定](https://posts.careerengine.us/p/660b812c48fb766ee766ef97)  
