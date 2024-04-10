@@ -1,6 +1,6 @@
 ##
 
-:alarm_clock: 更新时间: 2024-04-07 15:00:08，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-10 06:00:08，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -52,26 +52,26 @@
 </summary>
 
 
-- [2024-04-07-AI有了联想，世界将会怎样？](https://posts.careerengine.us/p/66127c7119d5344d5e1777fd) ![](/assets/new.png)  
-- [2024-04-07-抱抱脸Open了OpenAI的秘密武器，网易参与复现](https://posts.careerengine.us/p/66127c7f78ef4d4d9e0d9fa1) ![](/assets/new.png)  
-- [2024-04-07-斯坦福团队新作：喊话就能指导机器人，任务成功率暴增，网友：特斯拉搞快点](https://posts.careerengine.us/p/66127c90495eff4e0f7f7c57) ![](/assets/new.png)  
-- [2024-04-07-阿里刚开源32B大模型，我们立马测试了“弱智吧”](https://posts.careerengine.us/p/66127c90495eff4e0f7f7c4e) ![](/assets/new.png)  
-- [2024-04-06-中科大等意外发现：大模型不看图也能正确回答视觉问题！](https://posts.careerengine.us/p/6610f4fbf6fc981185b88bc7)  
-- [2024-04-06-死宅更容易变傻？？Science正经研究：大脑缺氧竟是常态，但靠运动可以改善](https://posts.careerengine.us/p/6610f4df0e41e310c1c0a6fc)  
+- [2024-04-10-AI算力提高，高能耗和难散热问题如何突破？](https://posts.careerengine.us/p/6616195200fcaf236a158d87) ![](/assets/new.png)  
+- [2024-04-10-开源模型首胜GPT-4！竞技场最新战报引热议，Karpathy：这是我唯二信任的榜单](https://posts.careerengine.us/p/6616195300fcaf236a158d8f) ![](/assets/new.png)  
+- [2024-04-10-离谱！AI超市「无人」收款，1000个印度人藏在背后……](https://posts.careerengine.us/p/6616195300fcaf236a158d98) ![](/assets/new.png)  
+- [2024-04-10-谷歌最强大模型免费开放了！长音频理解功能独一份，100万上下文敞开用](https://posts.careerengine.us/p/661619637b57a0241035864c) ![](/assets/new.png)  
+- [2024-04-10-英特尔突袭英伟达H100，新AI芯片训练快40％，推理快50％，CEO蹦迪庆祝](https://posts.careerengine.us/p/66161974119b8a24411e8270) ![](/assets/new.png)  
+- [2024-04-07-阿里刚开源32B大模型，我们立马测试了“弱智吧”](https://posts.careerengine.us/p/66127c90495eff4e0f7f7c4e)  
+- [2024-04-07-斯坦福团队新作：喊话就能指导机器人，任务成功率暴增，网友：特斯拉搞快点](https://posts.careerengine.us/p/66127c90495eff4e0f7f7c57)  
+- [2024-04-07-抱抱脸Open了OpenAI的秘密武器，网易参与复现](https://posts.careerengine.us/p/66127c7f78ef4d4d9e0d9fa1)  
+- [2024-04-07-AI有了联想，世界将会怎样？](https://posts.careerengine.us/p/66127c7119d5344d5e1777fd)  
 - [2024-04-06-马斯克感叹硅谷AI春招太疯狂！百万美元年薪随便开，小扎一线当猎头，谷歌创始人返场抢人](https://posts.careerengine.us/p/6610f4de0e41e310c1c0a6f4)  
-- [2024-04-05-谷歌更新Transformer架构，更节省计算资源！50％性能提升](https://posts.careerengine.us/p/660f7e99dd70ea3b753049a8)  
+- [2024-04-06-死宅更容易变傻？？Science正经研究：大脑缺氧竟是常态，但靠运动可以改善](https://posts.careerengine.us/p/6610f4df0e41e310c1c0a6fc)  
+- [2024-04-06-中科大等意外发现：大模型不看图也能正确回答视觉问题！](https://posts.careerengine.us/p/6610f4fbf6fc981185b88bc7)  
 - [2024-04-05-10万美元训出Llama-2级大模型！全华人打造新型MoE，贾扬清SD前CEO围观](https://posts.careerengine.us/p/660f7ea8cfeed23ba8392962)  
-- [2024-04-04-峰会报名中｜第二波嘉宾已就位，距离4月17日仅有两周](https://posts.careerengine.us/p/660e267794ca4d0b13f35abb)  
-- [2024-04-04-AIGC还是二刺猿会玩：捏娃社区爆火，有脑洞就能当同人大佬](https://posts.careerengine.us/p/660e2665e0f6d50abddfcd34)  
-- [2024-04-04-英伟达AI新课爆火！免费学习，干货满满](https://posts.careerengine.us/p/660e2665e0f6d50abddfcd3d)  
+- [2024-04-05-谷歌更新Transformer架构，更节省计算资源！50％性能提升](https://posts.careerengine.us/p/660f7e99dd70ea3b753049a8)  
 - [2024-04-04-弱智吧竟成最佳中文AI训练数据？！中科院等：8项测试第一，远超知乎豆瓣小红书](https://posts.careerengine.us/p/660e2665e0f6d50abddfcd2c)  
-- [2024-04-02-今天起，ChatGPT无需注册就能用了！](https://posts.careerengine.us/p/660b55fdbc834718a2bb087b)  
+- [2024-04-04-英伟达AI新课爆火！免费学习，干货满满](https://posts.careerengine.us/p/660e2665e0f6d50abddfcd3d)  
+- [2024-04-04-AIGC还是二刺猿会玩：捏娃社区爆火，有脑洞就能当同人大佬](https://posts.careerengine.us/p/660e2665e0f6d50abddfcd34)  
+- [2024-04-04-峰会报名中｜第二波嘉宾已就位，距离4月17日仅有两周](https://posts.careerengine.us/p/660e267794ca4d0b13f35abb)  
 - [2024-04-02-ChatGPT也在评审你的顶会投稿，斯坦福新研究捅了马蜂窝，“这下闭环了”](https://posts.careerengine.us/p/660b560bc976a0192c9470e4)  
-- [2024-04-01-“计算机视觉女神”被IEEE期刊封杀](https://posts.careerengine.us/p/660a3d5aa1a49f68f30e8227)  
-- [2024-04-01-0门槛免费商用！孟子3-13B大模型正式开源，万亿token数据训练](https://posts.careerengine.us/p/660a3d5aa1a49f68f30e822f)  
-- [2024-04-01-大模型实时打《街霸》捉对PK，GPT-4居然不敌3.5，新型Benchmark火了](https://posts.careerengine.us/p/660a3d4cb8e49168c371989c)  
-- [2024-04-01-机器狗首次阵亡！美国警方披露详情](https://posts.careerengine.us/p/660a3d4cb8e49168c3719894)  
-- [2024-04-01-最神秘国产大模型团队冒泡，一出手就是万亿参数MoE，两款应用敞开玩](https://posts.careerengine.us/p/660a3d3d96df4068467f4a10)  
+- [2024-04-02-今天起，ChatGPT无需注册就能用了！](https://posts.careerengine.us/p/660b55fdbc834718a2bb087b)  
 - [......【查看更多】......](/details/量子位.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
