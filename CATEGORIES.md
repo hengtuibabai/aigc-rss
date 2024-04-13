@@ -1,11 +1,11 @@
 ##
 
-:alarm_clock: 更新时间: 2024-04-12 15:00:05，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-13 06:00:06，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
-- [量子位](#量子位)  
+- [机器之心](#机器之心)  
+- [量子位](#量子位)![](/assets/dot.png)   
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
@@ -21,11 +21,11 @@
 </summary>
 
 
-- [2024-04-12-企业级AI-Agent如何落地汽车行业，这是国内首份系统阐述白皮书](https://posts.careerengine.us/p/66191a37c646051b63df35e2) ![](/assets/new.png)  
-- [2024-04-12-中文OCR超越GPT-4V，参数量仅2B，面壁小钢炮拿出了第二弹](https://posts.careerengine.us/p/66191a37c646051b63df35d9) ![](/assets/new.png)  
-- [2024-04-12-OpenAI解雇两名Ilya团队成员，与「宫斗」泄密有关？](https://posts.careerengine.us/p/66191a4605f8cf1b934a7220) ![](/assets/new.png)  
-- [2024-04-12-直接扩展到无限长，谷歌Infini-Transformer终结上下文长度之争](https://posts.careerengine.us/p/66191a553e05c71bc736f534) ![](/assets/new.png)  
-- [2024-04-12-改变LoRA的初始化方式，北大新方法PiSSA显著提升微调效果](https://posts.careerengine.us/p/66191a553e05c71bc736f53c) ![](/assets/new.png)  
+- [2024-04-12-企业级AI-Agent如何落地汽车行业，这是国内首份系统阐述白皮书](https://posts.careerengine.us/p/66191a37c646051b63df35e2)  
+- [2024-04-12-中文OCR超越GPT-4V，参数量仅2B，面壁小钢炮拿出了第二弹](https://posts.careerengine.us/p/66191a37c646051b63df35d9)  
+- [2024-04-12-OpenAI解雇两名Ilya团队成员，与「宫斗」泄密有关？](https://posts.careerengine.us/p/66191a4605f8cf1b934a7220)  
+- [2024-04-12-直接扩展到无限长，谷歌Infini-Transformer终结上下文长度之争](https://posts.careerengine.us/p/66191a553e05c71bc736f534)  
+- [2024-04-12-改变LoRA的初始化方式，北大新方法PiSSA显著提升微调效果](https://posts.careerengine.us/p/66191a553e05c71bc736f53c)  
 - [2024-04-11-XAI有什么用？探索LLM时代利用可解释性的10种策略](https://posts.careerengine.us/p/66176a446adcbc77df3b5bbd)  
 - [2024-04-11-Meta宣布全新训推一体加速器：完全集成PyTorch-2，性能3倍提升](https://posts.careerengine.us/p/66176a23b41e0b770a73e2d8)  
 - [2024-04-11-史上首位阿贝尔奖、图灵奖双得主！2023图灵奖授予随机性大佬Avi-Wigderson](https://posts.careerengine.us/p/66176a23b41e0b770a73e2e8)  
@@ -52,26 +52,26 @@
 </summary>
 
 
-- [2024-04-12-识读2300多年的战国竹简，竟只用2B端侧大模型！面壁发布新一代“小钢炮”](https://posts.careerengine.us/p/661908159a7ec03f8d4dca9a)  
-- [2024-04-12-谷歌爆改Transformer，“无限注意力”让1B小模型读完10部小说，114倍信息压缩](https://posts.careerengine.us/p/66190826608b653ff8102dc6)  
-- [2024-04-12-GPT-4升级被曝引入Q*，推理/数学更强废话更少，竞技场重夺王位](https://posts.careerengine.us/p/66190826608b653ff8102dbe)  
-- [2024-04-12-魔改RNN挑战Transformer，RWKV上新：推出2种新架构模型](https://posts.careerengine.us/p/661908367742354038d8241b)  
+- [2024-04-13-NeurIPS开辟高中赛道引爆争议！网友：代理人战争要开始了](https://posts.careerengine.us/p/661a0bc3ac773961cb08c255) ![](/assets/new.png)  
+- [2024-04-13-仅听3秒，AI零样本克隆人声达到人类水平，情绪语调随意改](https://posts.careerengine.us/p/661a0bd47ba68c620a2efff5) ![](/assets/new.png)  
+- [2024-04-13-“音乐版Sora”服务器挤爆！功能比Suno丰富还能生成脱口秀，每人每月1200首免费畅玩](https://posts.careerengine.us/p/661a0bd57ba68c620a2efffd) ![](/assets/new.png)  
 - [2024-04-12-突发！OpenAI开除Ilya盟友，理由：涉嫌信息泄漏](https://posts.careerengine.us/p/661908367742354038d82413)  
-- [2024-04-10-“梗王”大模型，靠讲笑话登上CVPR-|-中山大学](https://posts.careerengine.us/p/6616bbe99bae9068db4aa261)  
-- [2024-04-10-大模型做时序预测也很强！华人团队激活LLM新能力，超越一众传统模型实现SOTA](https://posts.careerengine.us/p/6616bbe89bae9068db4aa259)  
-- [2024-04-10-刚刚，图灵奖揭晓！史上首位数学和计算机最高奖“双料王”出现了](https://posts.careerengine.us/p/6616bbe89bae9068db4aa251)  
-- [2024-04-10-中国最fashion的AIGC应用都在这里了-|-中国AIGC产业峰会](https://posts.careerengine.us/p/6616bbc0efc06668087a06a7)  
-- [2024-04-10-AI算力提高，高能耗和难散热问题如何突破？](https://posts.careerengine.us/p/6616195200fcaf236a158d87)  
-- [2024-04-10-开源模型首胜GPT-4！竞技场最新战报引热议，Karpathy：这是我唯二信任的榜单](https://posts.careerengine.us/p/6616195300fcaf236a158d8f)  
-- [2024-04-10-离谱！AI超市「无人」收款，1000个印度人藏在背后……](https://posts.careerengine.us/p/6616195300fcaf236a158d98)  
-- [2024-04-10-谷歌最强大模型免费开放了！长音频理解功能独一份，100万上下文敞开用](https://posts.careerengine.us/p/661619637b57a0241035864c)  
+- [2024-04-12-魔改RNN挑战Transformer，RWKV上新：推出2种新架构模型](https://posts.careerengine.us/p/661908367742354038d8241b)  
+- [2024-04-12-GPT-4升级被曝引入Q*，推理/数学更强废话更少，竞技场重夺王位](https://posts.careerengine.us/p/66190826608b653ff8102dbe)  
+- [2024-04-12-谷歌爆改Transformer，“无限注意力”让1B小模型读完10部小说，114倍信息压缩](https://posts.careerengine.us/p/66190826608b653ff8102dc6)  
+- [2024-04-12-识读2300多年的战国竹简，竟只用2B端侧大模型！面壁发布新一代“小钢炮”](https://posts.careerengine.us/p/661908159a7ec03f8d4dca9a)  
 - [2024-04-10-英特尔突袭英伟达H100，新AI芯片训练快40％，推理快50％，CEO蹦迪庆祝](https://posts.careerengine.us/p/66161974119b8a24411e8270)  
-- [2024-04-07-阿里刚开源32B大模型，我们立马测试了“弱智吧”](https://posts.careerengine.us/p/66127c90495eff4e0f7f7c4e)  
-- [2024-04-07-斯坦福团队新作：喊话就能指导机器人，任务成功率暴增，网友：特斯拉搞快点](https://posts.careerengine.us/p/66127c90495eff4e0f7f7c57)  
-- [2024-04-07-抱抱脸Open了OpenAI的秘密武器，网易参与复现](https://posts.careerengine.us/p/66127c7f78ef4d4d9e0d9fa1)  
+- [2024-04-10-谷歌最强大模型免费开放了！长音频理解功能独一份，100万上下文敞开用](https://posts.careerengine.us/p/661619637b57a0241035864c)  
+- [2024-04-10-离谱！AI超市「无人」收款，1000个印度人藏在背后……](https://posts.careerengine.us/p/6616195300fcaf236a158d98)  
+- [2024-04-10-开源模型首胜GPT-4！竞技场最新战报引热议，Karpathy：这是我唯二信任的榜单](https://posts.careerengine.us/p/6616195300fcaf236a158d8f)  
+- [2024-04-10-AI算力提高，高能耗和难散热问题如何突破？](https://posts.careerengine.us/p/6616195200fcaf236a158d87)  
+- [2024-04-10-中国最fashion的AIGC应用都在这里了-|-中国AIGC产业峰会](https://posts.careerengine.us/p/6616bbc0efc06668087a06a7)  
+- [2024-04-10-刚刚，图灵奖揭晓！史上首位数学和计算机最高奖“双料王”出现了](https://posts.careerengine.us/p/6616bbe89bae9068db4aa251)  
+- [2024-04-10-大模型做时序预测也很强！华人团队激活LLM新能力，超越一众传统模型实现SOTA](https://posts.careerengine.us/p/6616bbe89bae9068db4aa259)  
+- [2024-04-10-“梗王”大模型，靠讲笑话登上CVPR-|-中山大学](https://posts.careerengine.us/p/6616bbe99bae9068db4aa261)  
 - [2024-04-07-AI有了联想，世界将会怎样？](https://posts.careerengine.us/p/66127c7119d5344d5e1777fd)  
-- [2024-04-06-马斯克感叹硅谷AI春招太疯狂！百万美元年薪随便开，小扎一线当猎头，谷歌创始人返场抢人](https://posts.careerengine.us/p/6610f4de0e41e310c1c0a6f4)  
-- [2024-04-06-死宅更容易变傻？？Science正经研究：大脑缺氧竟是常态，但靠运动可以改善](https://posts.careerengine.us/p/6610f4df0e41e310c1c0a6fc)  
+- [2024-04-07-抱抱脸Open了OpenAI的秘密武器，网易参与复现](https://posts.careerengine.us/p/66127c7f78ef4d4d9e0d9fa1)  
+- [2024-04-07-斯坦福团队新作：喊话就能指导机器人，任务成功率暴增，网友：特斯拉搞快点](https://posts.careerengine.us/p/66127c90495eff4e0f7f7c57)  
 - [......【查看更多】......](/details/量子位.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
