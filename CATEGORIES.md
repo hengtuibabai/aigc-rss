@@ -1,6 +1,6 @@
 ##
 
-:alarm_clock: 更新时间: 2024-04-14 18:00:07，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-15 06:00:06，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -118,26 +118,26 @@
 </summary>
 
 
-- [2024-04-14-生成扩散模型漫谈：信噪比与大图生成](https://posts.careerengine.us/p/661be36dcd9e1c427caa5049) ![](/assets/new.png)  
-- [2024-04-14-Github揽获8.6K星！《多模态大语言模型综述》重大升级](https://posts.careerengine.us/p/661be37df2465e42b648fbd7) ![](/assets/new.png)  
-- [2024-04-14-ICLR-2024-|-谁说大象不能起舞！重编程大模型实现跨模态交互的时序预测](https://posts.careerengine.us/p/661be37df2465e42b648fbdf) ![](/assets/new.png)  
-- [2024-04-14-博后招募-|-医疗大数据与医学智能实验室招聘博士后/青年教师/访问学生](https://posts.careerengine.us/p/661be37ef2465e42b648fbe7) ![](/assets/new.png)  
-- [2024-04-12-NLPCC-2024“大语言模型监管”评测任务发布，诚邀各界专家学者参与](https://posts.careerengine.us/p/66190a79dd788e4b7da45759)  
-- [2024-04-12-博士申请-|-香港科技大学（广州）汤南教授招收数据科学方向全奖博士生](https://posts.careerengine.us/p/66190a79dd788e4b7da45762)  
-- [2024-04-12-业界首个！厦大北大联合深势科技发布XtalNet，从PXRD实验数据直接预测晶体结构](https://posts.careerengine.us/p/66190a6a2c24914b3343ef29)  
+- [2024-04-15-一文全面盘点算法工程师大模型微调技能图谱](https://posts.careerengine.us/p/661cb59601c0af403eb2f3de) ![](/assets/new.png)  
+- [2024-04-15-​CVPR-2024-|-PromptSG：开启语言引导行人检索新纪元，实现精准语义捕捉](https://posts.careerengine.us/p/661cb5a562bca1407ab2c26e) ![](/assets/new.png)  
+- [2024-04-15-Mamba入局遥感！RS-Mamba：首次使用SSM进行大遥感图像的语义分割与变化检测](https://posts.careerengine.us/p/661cb5b436218940ad06608b) ![](/assets/new.png)  
+- [2024-04-15-博士申请-|-香港理工大学林婉瑜老师招收可信AI/生成式AI方向全奖博士/博后](https://posts.careerengine.us/p/661cb5b436218940ad066083) ![](/assets/new.png)  
+- [2024-04-14-博后招募-|-医疗大数据与医学智能实验室招聘博士后/青年教师/访问学生](https://posts.careerengine.us/p/661be37ef2465e42b648fbe7)  
+- [2024-04-14-ICLR-2024-|-谁说大象不能起舞！重编程大模型实现跨模态交互的时序预测](https://posts.careerengine.us/p/661be37df2465e42b648fbdf)  
+- [2024-04-14-Github揽获8.6K星！《多模态大语言模型综述》重大升级](https://posts.careerengine.us/p/661be37df2465e42b648fbd7)  
+- [2024-04-14-生成扩散模型漫谈：信噪比与大图生成](https://posts.careerengine.us/p/661be36dcd9e1c427caa5049)  
 - [2024-04-12-NUS、NTU等联合提出Dysen-VDM，利用LLM协助增强视频扩散模型的时间动态感知能力](https://posts.careerengine.us/p/66190a5bbff2384aaef0ffed)  
-- [2024-04-11-导师放养，偷偷发了顶会…](https://posts.careerengine.us/p/66177773e360713f3032a8a8)  
-- [2024-04-11-拷打大模型！首个基于弱智吧贴文的大模型谬误理解评测基准](https://posts.careerengine.us/p/66177793d505c63fad106735)  
-- [2024-04-11-西工大等提出大模型多智能体框架CRSEC，揭开AI社会的社交奥秘](https://posts.careerengine.us/p/66177794d505c63fad10673d)  
+- [2024-04-12-业界首个！厦大北大联合深势科技发布XtalNet，从PXRD实验数据直接预测晶体结构](https://posts.careerengine.us/p/66190a6a2c24914b3343ef29)  
+- [2024-04-12-博士申请-|-香港科技大学（广州）汤南教授招收数据科学方向全奖博士生](https://posts.careerengine.us/p/66190a79dd788e4b7da45762)  
+- [2024-04-12-NLPCC-2024“大语言模型监管”评测任务发布，诚邀各界专家学者参与](https://posts.careerengine.us/p/66190a79dd788e4b7da45759)  
 - [2024-04-11-北京/杭州内推-|-​阿里通义灵码团队招聘大语言模型方向研究型实习生](https://posts.careerengine.us/p/66177795d505c63fad106755)  
-- [2024-04-10-博士申请-|-香港中文大学（深圳）陈锐老师招收2024-Fall优化方向全奖博士生](https://posts.careerengine.us/p/6616233c510d7b575f588c6b)  
-- [2024-04-10-CVPR-2024-|-分割一切模型SAM泛化能力差？域适应策略给解决了](https://posts.careerengine.us/p/6616233c510d7b575f588c63)  
-- [2024-04-10-​一个大模型建模所有图结构关系！港大等发布最新图大语言模型HiGPT](https://posts.careerengine.us/p/6616232da3b81f56cd350140)  
+- [2024-04-11-西工大等提出大模型多智能体框架CRSEC，揭开AI社会的社交奥秘](https://posts.careerengine.us/p/66177794d505c63fad10673d)  
+- [2024-04-11-拷打大模型！首个基于弱智吧贴文的大模型谬误理解评测基准](https://posts.careerengine.us/p/66177793d505c63fad106735)  
+- [2024-04-11-导师放养，偷偷发了顶会…](https://posts.careerengine.us/p/66177773e360713f3032a8a8)  
 - [2024-04-10-奖金丰厚！AI4S-Cup系列比赛—“超声CT成像中的声场预测”报名启动](https://posts.careerengine.us/p/6616232da3b81f56cd350148)  
-- [2024-04-07-CVPR、AAAI、ICLR-2024优秀论文出炉！](https://posts.careerengine.us/p/66122fab2488b64f71984488)  
-- [2024-04-07-迈向公平图学习的新基准：电子科大等发布全新综合数据集和统一评估方法](https://posts.careerengine.us/p/66122fb91b6ea74f9f506826)  
-- [2024-04-07-CVPR-2024-|-拖拽P图又双叒升级了！DragNoise实现更快更准的拖拽编辑](https://posts.careerengine.us/p/66122fc73d68454fd757c111)  
-- [2024-04-07-探索历史的宝藏！ICDAR-2024-历史地图文字识别比赛邀您参与](https://posts.careerengine.us/p/66122fc73d68454fd757c119)  
+- [2024-04-10-​一个大模型建模所有图结构关系！港大等发布最新图大语言模型HiGPT](https://posts.careerengine.us/p/6616232da3b81f56cd350140)  
+- [2024-04-10-CVPR-2024-|-分割一切模型SAM泛化能力差？域适应策略给解决了](https://posts.careerengine.us/p/6616233c510d7b575f588c63)  
+- [2024-04-10-博士申请-|-香港中文大学（深圳）陈锐老师招收2024-Fall优化方向全奖博士生](https://posts.careerengine.us/p/6616233c510d7b575f588c6b)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
