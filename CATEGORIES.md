@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2024-04-21 06:00:07，:rocket: 更新条数: +7， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-21 08:00:05，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
-- [量子位](#量子位)![](/assets/dot.png)   
+- [机器之心](#机器之心)  
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)  
+- [AI前线](#ai前线)![](/assets/dot.png)   
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -21,10 +21,10 @@
 </summary>
 
 
-- [2024-04-21-史上首次！AI驾驶战机成功与人类飞行员空中「狗斗」](https://posts.careerengine.us/p/662491cb21c572682c355cd7) ![](/assets/new.png)  
-- [2024-04-21-AI-Pioneers｜星海图高继扬：人形机器人不是具身智能的唯一答案](https://posts.careerengine.us/p/662491cb21c572682c355ce0) ![](/assets/new.png)  
-- [2024-04-21-CVPR-2024-|-跳舞时飞扬的裙摆，AI也能高度还原了，南洋理工提出动态人体渲染新范式](https://posts.careerengine.us/p/662491e9995c8068dcd84ec0) ![](/assets/new.png)  
-- [2024-04-21-4000万蛋白结构训练，西湖大学开发基于结构词表的蛋白质通用大模型，已开源](https://posts.careerengine.us/p/662491f8e01c006917c55ef9) ![](/assets/new.png)  
+- [2024-04-21-史上首次！AI驾驶战机成功与人类飞行员空中「狗斗」](https://posts.careerengine.us/p/662491cb21c572682c355cd7)  
+- [2024-04-21-AI-Pioneers｜星海图高继扬：人形机器人不是具身智能的唯一答案](https://posts.careerengine.us/p/662491cb21c572682c355ce0)  
+- [2024-04-21-CVPR-2024-|-跳舞时飞扬的裙摆，AI也能高度还原了，南洋理工提出动态人体渲染新范式](https://posts.careerengine.us/p/662491e9995c8068dcd84ec0)  
+- [2024-04-21-4000万蛋白结构训练，西湖大学开发基于结构词表的蛋白质通用大模型，已开源](https://posts.careerengine.us/p/662491f8e01c006917c55ef9)  
 - [2024-04-19-MLLM真能看懂数学吗？MathVerse来了次摸底测评，放出当天登热榜](https://posts.careerengine.us/p/66220b4e1f9a1313781bfb87)  
 - [2024-04-19-5亿个token之后，我们得出关于GPT的七条宝贵经验](https://posts.careerengine.us/p/66220b4e1f9a1313781bfb7e)  
 - [2024-04-19-CVPR-2024高分论文：全新生成式编辑框架GenN2N，统一NeRF转换任务](https://posts.careerengine.us/p/66220b3c23ac9212c0f8aa81)  
@@ -52,9 +52,9 @@
 </summary>
 
 
-- [2024-04-21-高通万卫星：终端侧生成式AI时代已经来临｜中国AIGC产业峰会](https://posts.careerengine.us/p/66249fdbc5517b2b774655a3) ![](/assets/new.png)  
-- [2024-04-21-GPT-4化身黑客搞破坏，成功率87％！OpenAI要求保密提示词，网友复现ing](https://posts.careerengine.us/p/66249fdbc5517b2b774655ac) ![](/assets/new.png)  
-- [2024-04-21-轻松拿捏4K高清图像理解！这个多模态大模型自动分析网页海报内容，打工人简直不要太方便](https://posts.careerengine.us/p/66249fea81f7922baf26a0a6) ![](/assets/new.png)  
+- [2024-04-21-高通万卫星：终端侧生成式AI时代已经来临｜中国AIGC产业峰会](https://posts.careerengine.us/p/66249fdbc5517b2b774655a3)  
+- [2024-04-21-GPT-4化身黑客搞破坏，成功率87％！OpenAI要求保密提示词，网友复现ing](https://posts.careerengine.us/p/66249fdbc5517b2b774655ac)  
+- [2024-04-21-轻松拿捏4K高清图像理解！这个多模态大模型自动分析网页海报内容，打工人简直不要太方便](https://posts.careerengine.us/p/66249fea81f7922baf26a0a6)  
 - [2024-04-20-再见，AI意识先驱：Daniel-Dennett](https://posts.careerengine.us/p/6623bf07139b520b40890f7d)  
 - [2024-04-20-离你最近的空间计算打开方式，X499元？](https://posts.careerengine.us/p/6623bef500374a0b08a8bc58)  
 - [2024-04-20-小冰徐元春：AIGC已经让普通人开始赚钱-|-中国AIGC产业峰会](https://posts.careerengine.us/p/6623bef500374a0b08a8bc50)  
@@ -176,26 +176,26 @@
 </summary>
 
 
+- [2024-04-21-刘强东AI数字人首播，30分钟观看破千万；雷军回应爽文人生：不是高考状元、没有40亿；特斯拉大裁员：员工对赔偿满意｜AI周报](https://posts.careerengine.us/p/6624a58678e04b474b389a12) ![](/assets/new.png)  
 - [2024-04-20-走近李生教授：培养出周明、王海峰等数位AI科学家，NLP国际最高奖项得主的科研之路](https://posts.careerengine.us/p/662353cada86f222e8765943)  
 - [2024-04-19-卷疯了！最强开源大模型Llama-3发布，最大参数4000亿，小扎内心：大模型比元宇宙香多了](https://posts.careerengine.us/p/6621c85a7ec5044b72d1d888)  
-- [2024-04-18-Atlas人形机器人刷屏！“钮祜禄·波士顿动力”三度易主后终于回归，网友：强到可怕](https://posts.careerengine.us/p/6620a75bc6704b394d5aee07)  
 - [2024-04-18-六大国有银行AI大模型进展如何，又探索了哪些应用？](https://posts.careerengine.us/p/6620a76acf991839866a555c)  
-- [2024-04-17-CVPR-2024｜文本或图像提示精准编辑-3D-场景，美图&信工所&北航&中大联合提出-3D-编辑方法-CustomNeRF](https://posts.careerengine.us/p/661f67f7f900cf2d1bb6b2cc)  
-- [2024-04-17-李彦宏说“人人都是开发者”，你知道哪类岗位在未来更有竞争力吗？|-极客时间](https://posts.careerengine.us/p/661f67e83e35092cde638e34)  
+- [2024-04-18-Atlas人形机器人刷屏！“钮祜禄·波士顿动力”三度易主后终于回归，网友：强到可怕](https://posts.careerengine.us/p/6620a75bc6704b394d5aee07)  
 - [2024-04-17-斯坦福15张图揭示最新AI-动态：开源风评又“被害”，谷歌、OpenAI争当基础模型“劳模”](https://posts.careerengine.us/p/661f67e83e35092cde638e3e)  
-- [2024-04-16-“干掉程序员”，百度是认真的！发布三大开发工具和全新操作系统，李彦宏：只要会说话就会干开发](https://posts.careerengine.us/p/661e043404376146094de167)  
+- [2024-04-17-李彦宏说“人人都是开发者”，你知道哪类岗位在未来更有竞争力吗？|-极客时间](https://posts.careerengine.us/p/661f67e83e35092cde638e34)  
+- [2024-04-17-CVPR-2024｜文本或图像提示精准编辑-3D-场景，美图&信工所&北航&中大联合提出-3D-编辑方法-CustomNeRF](https://posts.careerengine.us/p/661f67f7f900cf2d1bb6b2cc)  
 - [2024-04-16-梗图理解“天花板”！港中文终身教授贾佳亚团队推出多模态模型：GPT-4+DALL-E-3，王炸组合刷爆榜单](https://posts.careerengine.us/p/661e0447743c394686e1cc7b)  
-- [2024-04-15-巨头们火力全开：AI应用边界再扩张-|-大模型一周大事](https://posts.careerengine.us/p/661cb814f752b54c7a195609)  
+- [2024-04-16-“干掉程序员”，百度是认真的！发布三大开发工具和全新操作系统，李彦宏：只要会说话就会干开发](https://posts.careerengine.us/p/661e043404376146094de167)  
 - [2024-04-15-芯片反击，英特尔和AMD惨了！国内电信运营商逐步淘汰外国芯片，网友：这只是个开始](https://posts.careerengine.us/p/661cb804342e884c3f9730f3)  
+- [2024-04-15-巨头们火力全开：AI应用边界再扩张-|-大模型一周大事](https://posts.careerengine.us/p/661cb814f752b54c7a195609)  
 - [2024-04-14-字节跳动成全球最大独角兽公司？官方回应；智己汽车三次致歉小米：我们被网络霸凌；苹果计划裁员超-600-人｜AI周报](https://posts.careerengine.us/p/661b6b548df84d0364de5603)  
-- [2024-04-13-苹果股价罕见飙升，因网传-M4-芯片将于年末发售](https://posts.careerengine.us/p/661a19df14de87289fea7a1e)  
 - [2024-04-13-OpenAI-创始成员用-1000-行-C-代码手搓了一个大模型，Mac-即可运行！网友：真男人就该用C编程](https://posts.careerengine.us/p/661a19d0bb840628082e838c)  
-- [2024-04-12-谷歌、OpenAI、Mistral-在24小时内打响科技界“三强争霸赛”](https://posts.careerengine.us/p/6618b4af0174852ddd2e5ba6)  
-- [2024-04-12-离开百度7年后，吴恩达终于大厂“再就业”：加入亚马逊董事会，帮其实现AI大志](https://posts.careerengine.us/p/6618b4af0174852ddd2e5b97)  
+- [2024-04-13-苹果股价罕见飙升，因网传-M4-芯片将于年末发售](https://posts.careerengine.us/p/661a19df14de87289fea7a1e)  
 - [2024-04-12-李彦宏内部讲话曝光：闭源模型才能“遥遥领先”！](https://posts.careerengine.us/p/6618b4af0174852ddd2e5b8f)  
-- [2024-04-11-OpenAI-重磅发布的GPT-4-Turbo-with-Vision，是编码的倒退](https://posts.careerengine.us/p/66178bebb8f8fb2b1063add5)  
+- [2024-04-12-离开百度7年后，吴恩达终于大厂“再就业”：加入亚马逊董事会，帮其实现AI大志](https://posts.careerengine.us/p/6618b4af0174852ddd2e5b97)  
+- [2024-04-12-谷歌、OpenAI、Mistral-在24小时内打响科技界“三强争霸赛”](https://posts.careerengine.us/p/6618b4af0174852ddd2e5ba6)  
 - [2024-04-11-马上消费：全国首个零售金融大模型应用情况如何了？](https://posts.careerengine.us/p/66178beab8f8fb2b1063adcd)  
-- [2024-04-10-钉钉卡位战：SaaS-挣不到的钱，Agent-会挣到](https://posts.careerengine.us/p/66163697830e9d3badc48b6c)  
+- [2024-04-11-OpenAI-重磅发布的GPT-4-Turbo-with-Vision，是编码的倒退](https://posts.careerengine.us/p/66178bebb8f8fb2b1063add5)  
 - [......【查看更多】......](/details/AI前线.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
