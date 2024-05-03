@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2024-05-03 06:00:05，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-05-03 08:00:04，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
-- [量子位](#量子位)  
+- [机器之心](#机器之心)  
+- [量子位](#量子位)![](/assets/dot.png)   
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)  
+- [AI前线](#ai前线)![](/assets/dot.png)   
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -21,11 +21,11 @@
 </summary>
 
 
-- [2024-05-03-2023-IBM博士生奖学金华人占六成：Vicuna作者吴章昊、清华特奖得主高天宇入选](https://posts.careerengine.us/p/66346bdfee3b286f567a2b91) ![](/assets/new.png)  
-- [2024-05-03-终于有人调查了小模型过拟合：三分之二都有数据污染，微软Phi-3、Mixtral-8x22B被点名](https://posts.careerengine.us/p/66346bdfee3b286f567a2b99) ![](/assets/new.png)  
-- [2024-05-03-CVPR-2024-Highlight-|-基于单曝光压缩成像，不依赖生成模型也能从单张图像中重建三维场景](https://posts.careerengine.us/p/66346bed1830296fb67e8644) ![](/assets/new.png)  
-- [2024-05-03-小模型性能饱和、表现不佳，根源是因为Softmax？](https://posts.careerengine.us/p/66346bed1830296fb67e864c) ![](/assets/new.png)  
-- [2024-05-03-辉瑞-AI-方法登-Science，揭示数以万计的配体——蛋白质相互作用](https://posts.careerengine.us/p/66346bed1830296fb67e863c) ![](/assets/new.png)  
+- [2024-05-03-2023-IBM博士生奖学金华人占六成：Vicuna作者吴章昊、清华特奖得主高天宇入选](https://posts.careerengine.us/p/66346bdfee3b286f567a2b91)  
+- [2024-05-03-终于有人调查了小模型过拟合：三分之二都有数据污染，微软Phi-3、Mixtral-8x22B被点名](https://posts.careerengine.us/p/66346bdfee3b286f567a2b99)  
+- [2024-05-03-CVPR-2024-Highlight-|-基于单曝光压缩成像，不依赖生成模型也能从单张图像中重建三维场景](https://posts.careerengine.us/p/66346bed1830296fb67e8644)  
+- [2024-05-03-小模型性能饱和、表现不佳，根源是因为Softmax？](https://posts.careerengine.us/p/66346bed1830296fb67e864c)  
+- [2024-05-03-辉瑞-AI-方法登-Science，揭示数以万计的配体——蛋白质相互作用](https://posts.careerengine.us/p/66346bed1830296fb67e863c)  
 - [2024-05-02-Meta-联合纽约大学和华盛顿大学提出MetaCLIP，带你揭开CLIP的高质量数据之谜…](https://posts.careerengine.us/p/663352362b0ae96079ba3e66)  
 - [2024-05-02-邮件曝光，微软为追谷歌脚步才投资了OpenAI，纳德拉回应：才不是](https://posts.careerengine.us/p/663352287ae3c8604aa75c83)  
 - [2024-05-02-热归热，Groq离取代英伟达GPU有多远？](https://posts.careerengine.us/p/663352197882a55fd01da9b6)  
@@ -52,26 +52,26 @@
 </summary>
 
 
-- [2024-05-02-全新神经网络架构KAN一夜爆火！200参数顶30万，MIT华人一作，轻松复现Nature封面AI数学研究](https://posts.careerengine.us/p/663319a7b6330f550dfe6122)  
-- [2024-05-02-人大卢志武：只要拿到更多算力，超过Sora也不是那么难的事｜中国AIGC产业峰会](https://posts.careerengine.us/p/663319b6e528ff5556d4c7f0)  
+- [2024-05-03-奥特曼承认了神秘gpt2！哈佛MIT巡演继续，斯坦福演讲完整版公开](https://posts.careerengine.us/p/66346b315fefc86bc3a43923) ![](/assets/new.png)  
+- [2024-05-03-一次预测多个token，Meta新模型推理加速3倍，编程任务提高17％](https://posts.careerengine.us/p/66346b3fa4b5796c016a2de0) ![](/assets/new.png)  
+- [2024-05-03-美图吴欣鸿：国产Sora竞争关键，在创意、工作流和垂直场景-|-中国AIGC产业峰会](https://posts.careerengine.us/p/66346b40a4b5796c016a2def) ![](/assets/new.png)  
 - [2024-05-02-Claude-iOS版本突然推出！11MB大小，体验丝滑，网友呼吁语音功能快上线](https://posts.careerengine.us/p/663319b7e528ff5556d4c7f8)  
-- [2024-05-01-消费级显卡轻松跑AI，英伟达RTX领跑AI-PC竞争](https://posts.careerengine.us/p/6631cc7398dbe00ebf17f8a0)  
+- [2024-05-02-人大卢志武：只要拿到更多算力，超过Sora也不是那么难的事｜中国AIGC产业峰会](https://posts.careerengine.us/p/663319b6e528ff5556d4c7f0)  
+- [2024-05-02-全新神经网络架构KAN一夜爆火！200参数顶30万，MIT华人一作，轻松复现Nature封面AI数学研究](https://posts.careerengine.us/p/663319a7b6330f550dfe6122)  
 - [2024-05-01-解密中国首个“音乐版Sora”-|-中国AIGC产业峰会](https://posts.careerengine.us/p/6631cc65b14c580e5c50e3e7)  
-- [2024-04-30-从今天起，ChatGPT会记住每一位付费用户](https://posts.careerengine.us/p/6630eaad0478f442f63990cd)  
-- [2024-04-30-神秘大模型一夜刷屏，能力太强被疑GPT-4.5，奥特曼避而不答打哑谜](https://posts.careerengine.us/p/6630eaad0478f442f63990e5)  
-- [2024-04-30-开源大模型王座再易主，通义千问1100亿参数拿下SOTA，3个月已推出8款模型](https://posts.careerengine.us/p/6630eaad0478f442f63990dd)  
-- [2024-04-30-GitHub版Devin上线，会打字就能开发应用，微软CEO：重新定义IDE](https://posts.careerengine.us/p/6630eacbeab1e043a455d24a)  
+- [2024-05-01-消费级显卡轻松跑AI，英伟达RTX领跑AI-PC竞争](https://posts.careerengine.us/p/6631cc7398dbe00ebf17f8a0)  
 - [2024-04-30-小红书让智能体们吵起来了！联合复旦推出大模型专属群聊工具](https://posts.careerengine.us/p/6630eacbeab1e043a455d259)  
-- [2024-04-29-单卡跑Llama-70B快过双卡，微软硬生生把FP6搞到了A100里-|-开源](https://posts.careerengine.us/p/662f1e00b04d684bcd96cff3)  
-- [2024-04-29-苹果首个AI平板曝光：新iPad-Pro直接上M4芯片](https://posts.careerengine.us/p/662f1df11c641d4b8555ba76)  
-- [2024-04-29-Sora大片真相：人工特效参与，被指误导大众](https://posts.careerengine.us/p/662f1df11c641d4b8555ba86)  
+- [2024-04-30-GitHub版Devin上线，会打字就能开发应用，微软CEO：重新定义IDE](https://posts.careerengine.us/p/6630eacbeab1e043a455d24a)  
+- [2024-04-30-开源大模型王座再易主，通义千问1100亿参数拿下SOTA，3个月已推出8款模型](https://posts.careerengine.us/p/6630eaad0478f442f63990dd)  
+- [2024-04-30-神秘大模型一夜刷屏，能力太强被疑GPT-4.5，奥特曼避而不答打哑谜](https://posts.careerengine.us/p/6630eaad0478f442f63990e5)  
+- [2024-04-30-从今天起，ChatGPT会记住每一位付费用户](https://posts.careerengine.us/p/6630eaad0478f442f63990cd)  
 - [2024-04-29-超级智能体生命力觉醒！可自我更新的AI来了，妈妈再也不用担心数据瓶颈难题](https://posts.careerengine.us/p/662f1df11c641d4b8555ba7e)  
-- [2024-04-28-突发！谷歌Python团队解散，PyTorch之父震惊](https://posts.careerengine.us/p/662e235c4bfc5305c221dd40)  
-- [2024-04-28-国产GPU重大利好！“中国英伟达”千卡集群已就位](https://posts.careerengine.us/p/662e235c4bfc5305c221dd38)  
-- [2024-04-28-人工几十万，AI几十块！国产玩家证明了AIGC视频商业化威力](https://posts.careerengine.us/p/662e235d4bfc5305c221dd48)  
-- [2024-04-28-人形机器人在北京亦庄跑起来了](https://posts.careerengine.us/p/662e2374d2b8dd064ef8cf92)  
-- [2024-04-28-国产多模态大模型开源！无条件免费商用，性能超Claude-3-Sonnet](https://posts.careerengine.us/p/662e2374d2b8dd064ef8cf9b)  
+- [2024-04-29-Sora大片真相：人工特效参与，被指误导大众](https://posts.careerengine.us/p/662f1df11c641d4b8555ba86)  
+- [2024-04-29-苹果首个AI平板曝光：新iPad-Pro直接上M4芯片](https://posts.careerengine.us/p/662f1df11c641d4b8555ba76)  
+- [2024-04-29-单卡跑Llama-70B快过双卡，微软硬生生把FP6搞到了A100里-|-开源](https://posts.careerengine.us/p/662f1e00b04d684bcd96cff3)  
 - [2024-04-28-上海期智研究院全球招人才！人工智能/信息安全/量子智能方向的来](https://posts.careerengine.us/p/662e2374d2b8dd064ef8cf8a)  
+- [2024-04-28-国产多模态大模型开源！无条件免费商用，性能超Claude-3-Sonnet](https://posts.careerengine.us/p/662e2374d2b8dd064ef8cf9b)  
+- [2024-04-28-人形机器人在北京亦庄跑起来了](https://posts.careerengine.us/p/662e2374d2b8dd064ef8cf92)  
 - [......【查看更多】......](/details/量子位.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -176,26 +176,26 @@
 </summary>
 
 
+- [2024-05-03-谷歌、OpenAI-都搞起了AI-“造人”？创始团队：开源AI基因编辑器只是冰山一角](https://posts.careerengine.us/p/66347802dbe7d22c2c8d9e39) ![](/assets/new.png)  
+- [2024-05-03-辩证看待“幻觉”问题，蔚来汽车在AI和大模型领域的应用实践](https://posts.careerengine.us/p/663478104ef2eb2c984ab249) ![](/assets/new.png)  
 - [2024-05-02-面壁智能低调开源大模型“理科状元”！LeetCode-周赛超越80％人类选手，推理性能超-Llama3-70B](https://posts.careerengine.us/p/663325dc958c3010eef21df8)  
 - [2024-05-01-没有抢到票也想旅游怎么办？这里有个好玩又能拿好礼的方法](https://posts.careerengine.us/p/6631aa2072393b65dd7a8681)  
-- [2024-04-30-神秘大模型一夜“征服”所有人，超GPT-4却无人认领？网友：OpenAI-要有大麻烦了](https://posts.careerengine.us/p/6630ea22e7be4e409f06a96d)  
 - [2024-04-30-AI程序员来了，学会让它给你打工才是正事！|-Q福利](https://posts.careerengine.us/p/6630ea31d181c540e9c13d06)  
-- [2024-04-29-苹果与-OpenAI-重启谈判，Siri-或引入-ChatGPT，网友：国行用文心一言？](https://posts.careerengine.us/p/662f342431d7a73a4997e884)  
-- [2024-04-29-大模型的“瘦身”革命：巨头逐鹿轻量化大模型-|-大模型一周大事](https://posts.careerengine.us/p/662f3416ed62a139facb30d4)  
-- [2024-04-29-探索-Copilot-创新实践：腾讯、字节跳动、PingCAP-与第四范式共聚-AICon](https://posts.careerengine.us/p/662f3415ed62a139facb30c2)  
+- [2024-04-30-神秘大模型一夜“征服”所有人，超GPT-4却无人认领？网友：OpenAI-要有大麻烦了](https://posts.careerengine.us/p/6630ea22e7be4e409f06a96d)  
 - [2024-04-29-26岁带着百人团队冲刺大模型，面壁智能天才CTO：高效比参数更重要](https://posts.careerengine.us/p/662f3415ed62a139facb30cb)  
-- [2024-04-28-曝谷歌Python团队全员被裁；清华系团队“国产Sora”：视频突破16秒；“社恐”周鸿祎：喊话贾跃亭、雷军送自己车｜AI周报](https://posts.careerengine.us/p/662de75aeadf3e65f5917c5f)  
+- [2024-04-29-探索-Copilot-创新实践：腾讯、字节跳动、PingCAP-与第四范式共聚-AICon](https://posts.careerengine.us/p/662f3415ed62a139facb30c2)  
+- [2024-04-29-大模型的“瘦身”革命：巨头逐鹿轻量化大模型-|-大模型一周大事](https://posts.careerengine.us/p/662f3416ed62a139facb30d4)  
+- [2024-04-29-苹果与-OpenAI-重启谈判，Siri-或引入-ChatGPT，网友：国行用文心一言？](https://posts.careerengine.us/p/662f342431d7a73a4997e884)  
 - [2024-04-28-向所有生成式AI领域的优秀案例和厂商发出邀请，AIGC先锋榜进入征集倒计时-！](https://posts.careerengine.us/p/662de75aeadf3e65f5917c57)  
+- [2024-04-28-曝谷歌Python团队全员被裁；清华系团队“国产Sora”：视频突破16秒；“社恐”周鸿祎：喊话贾跃亭、雷军送自己车｜AI周报](https://posts.careerengine.us/p/662de75aeadf3e65f5917c5f)  
 - [2024-04-27-大模型开闭源争吵不休：开源落后闭源一年，决定模型能力的不是技术？](https://posts.careerengine.us/p/662c8ded2a6bbe78533d86d4)  
-- [2024-04-26-国内大模型五虎融资仅是巨头零花钱？谷歌、微软、Meta：每季度拿不出100亿美元别玩AI](https://posts.careerengine.us/p/662b370db378627cef8be9db)  
 - [2024-04-26-端侧模型-OctopusV3-发布：手机上的超级助理，性能媲美-GPT-4V-和-GPT-4-的组合？](https://posts.careerengine.us/p/662b371d3491f57d1f7eb927)  
-- [2024-04-25-阿里、蚂蚁、昇腾、中科加禾精彩分享-AI-基础设施洞见，现购票可享受-9-折优惠-｜AICon](https://posts.careerengine.us/p/6629ec7a91f94b0ee82ec5be)  
-- [2024-04-25-过去一年，中国车企“上车”大模型进展如何？](https://posts.careerengine.us/p/6629ec6b8eac970ea8016748)  
+- [2024-04-26-国内大模型五虎融资仅是巨头零花钱？谷歌、微软、Meta：每季度拿不出100亿美元别玩AI](https://posts.careerengine.us/p/662b370db378627cef8be9db)  
 - [2024-04-25-规模增长超-50％！普通人如何上手-AI-大模型应用开发？-|-极客时间](https://posts.careerengine.us/p/6629ec6a8eac970ea8016740)  
-- [2024-04-24-总市值近45亿港币，AIGC第一股出门问问流血上市！首日破发开跌超21％](https://posts.careerengine.us/p/6628903178f42606cff48d52)  
-- [2024-04-24-InfoQ-中国技术力量之【AIGC-先锋榜单】正式启动征集，洞见-AIGC-产业未来](https://posts.careerengine.us/p/662890411ca28a0749f0a78d)  
+- [2024-04-25-过去一年，中国车企“上车”大模型进展如何？](https://posts.careerengine.us/p/6629ec6b8eac970ea8016748)  
+- [2024-04-25-阿里、蚂蚁、昇腾、中科加禾精彩分享-AI-基础设施洞见，现购票可享受-9-折优惠-｜AICon](https://posts.careerengine.us/p/6629ec7a91f94b0ee82ec5be)  
 - [2024-04-24-小模型时代来了？微软最小参数AI模型发布，性能逼近-GPT-3.5](https://posts.careerengine.us/p/662890411ca28a0749f0a785)  
-- [2024-04-23-我处理了-5-亿-GPT-tokens-后：langchain、RAG-等都没什么用](https://posts.careerengine.us/p/662749c2c5bf095e056db77b)  
+- [2024-04-24-InfoQ-中国技术力量之【AIGC-先锋榜单】正式启动征集，洞见-AIGC-产业未来](https://posts.careerengine.us/p/662890411ca28a0749f0a78d)  
 - [......【查看更多】......](/details/AI前线.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
