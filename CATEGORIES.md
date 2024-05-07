@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2024-05-06 08:00:06，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-05-07 06:00:06，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)  
+- [机器之心](#机器之心)![](/assets/dot.png)   
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
+- [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -21,26 +21,26 @@
 </summary>
 
 
-- [2024-05-06-2024年WAIC·云帆奖启航：擎启AGI时代，集结超越边界的探索者](https://posts.careerengine.us/p/663854c5db74481df96e9e58)  
-- [2024-05-06-特斯拉Optimus人形机器人进厂打工，娴熟分装电池、自我矫正，还能走更远了](https://posts.careerengine.us/p/663854c5db74481df96e9e4f)  
-- [2024-05-06-仅用250美元，Hugging-Face技术主管手把手教你微调Llama-3](https://posts.careerengine.us/p/663854d4d3dcf41e27676e57)  
-- [2024-05-06-LeCun上月球？南开、字节开源StoryDiffusion让漫画和长视频更连贯](https://posts.careerengine.us/p/663854d4d3dcf41e27676e5f)  
+- [2024-05-07-智能计算加速搜索，中国天眼FAST寻获球状星团中迄今最长周期脉冲星](https://posts.careerengine.us/p/6639b7982054d3750a4c8ab2) ![](/assets/new.png)  
+- [2024-05-07-速读60万字《马斯克传》、手机一键生成PPT，零一万物上线AI生产力工具「万知」](https://posts.careerengine.us/p/6639b7a60a742f753c4beb8d) ![](/assets/new.png)  
+- [2024-05-07-爆火后反转？「一夜干掉MLP」的KAN：其实我也是MLP](https://posts.careerengine.us/p/6639b7b5942299757e2df4a9) ![](/assets/new.png)  
+- [2024-05-07-一块钱100万token，超强MoE模型开源，性能直逼GPT-4-Turbo](https://posts.careerengine.us/p/6639b7b5942299757e2df4b1) ![](/assets/new.png)  
+- [2024-05-07-让机器准确「看懂」手物交互动作，清华大学等提出GeneOH-Diffusion方法](https://posts.careerengine.us/p/6639b7c3390ad775f4fa11a6) ![](/assets/new.png)  
 - [2024-05-06-看透物体的3D表示和生成模型：NUS团队提出X-Ray](https://posts.careerengine.us/p/663854d4d3dcf41e27676e67)  
-- [2024-05-05-AI可以改写人类基因组吗？首次由AI从头设计的基因编辑器成功编辑人类细胞中DNA](https://posts.careerengine.us/p/66370adcc1058c5a8cb14b43)  
-- [2024-05-05-12年前上手深度学习，Karpathy掀起一波AlexNet时代回忆杀，LeCun、Goodfellow等都下场](https://posts.careerengine.us/p/66370ace6d833e5a474e67be)  
-- [2024-05-05-LeCun哈佛演讲PPT放出：唱衰自回归LLM，指明下一代AI方向](https://posts.careerengine.us/p/66370acd6d833e5a474e67b6)  
-- [2024-05-05-告别偏科，能玩转多模态、多任务、多领域的强化智能体终于来了](https://posts.careerengine.us/p/66370acd6d833e5a474e67a6)  
+- [2024-05-06-LeCun上月球？南开、字节开源StoryDiffusion让漫画和长视频更连贯](https://posts.careerengine.us/p/663854d4d3dcf41e27676e5f)  
+- [2024-05-06-仅用250美元，Hugging-Face技术主管手把手教你微调Llama-3](https://posts.careerengine.us/p/663854d4d3dcf41e27676e57)  
+- [2024-05-06-特斯拉Optimus人形机器人进厂打工，娴熟分装电池、自我矫正，还能走更远了](https://posts.careerengine.us/p/663854c5db74481df96e9e4f)  
+- [2024-05-06-2024年WAIC·云帆奖启航：擎启AGI时代，集结超越边界的探索者](https://posts.careerengine.us/p/663854c5db74481df96e9e58)  
 - [2024-05-05-CVPR-2024-|-借助神经结构光，浙大实现动态三维现象的实时采集重建](https://posts.careerengine.us/p/66370acd6d833e5a474e67ae)  
-- [2024-05-04-斯坦福李飞飞首次创业：学术休假两年，瞄准「空间智能」](https://posts.careerengine.us/p/6635b64193c0311c6f3adc1c)  
-- [2024-05-04-平均准确率达96.4％，中山大学&重庆大学开发基于Transformer的单细胞注释方法](https://posts.careerengine.us/p/6635b656a5b8bd1cb58d92d3)  
-- [2024-05-04-ICLR-2024-Spotlight-|-无惧中间步骤，MUSTARD可生成高质量数学推理数据](https://posts.careerengine.us/p/6635b656a5b8bd1cb58d92db)  
-- [2024-05-04-瑜伽球上遛「狗」！入选英伟达十大项目之一的Eureka有了新突破](https://posts.careerengine.us/p/6635b657a5b8bd1cb58d92eb)  
+- [2024-05-05-告别偏科，能玩转多模态、多任务、多领域的强化智能体终于来了](https://posts.careerengine.us/p/66370acd6d833e5a474e67a6)  
+- [2024-05-05-LeCun哈佛演讲PPT放出：唱衰自回归LLM，指明下一代AI方向](https://posts.careerengine.us/p/66370acd6d833e5a474e67b6)  
+- [2024-05-05-12年前上手深度学习，Karpathy掀起一波AlexNet时代回忆杀，LeCun、Goodfellow等都下场](https://posts.careerengine.us/p/66370ace6d833e5a474e67be)  
+- [2024-05-05-AI可以改写人类基因组吗？首次由AI从头设计的基因编辑器成功编辑人类细胞中DNA](https://posts.careerengine.us/p/66370adcc1058c5a8cb14b43)  
 - [2024-05-04-ChatGPT们的幕后先驱，斯坦福教授Manning的四十年NLP生涯](https://posts.careerengine.us/p/6635b657a5b8bd1cb58d92e3)  
-- [2024-05-03-辉瑞-AI-方法登-Science，揭示数以万计的配体——蛋白质相互作用](https://posts.careerengine.us/p/66346bed1830296fb67e863c)  
-- [2024-05-03-小模型性能饱和、表现不佳，根源是因为Softmax？](https://posts.careerengine.us/p/66346bed1830296fb67e864c)  
-- [2024-05-03-CVPR-2024-Highlight-|-基于单曝光压缩成像，不依赖生成模型也能从单张图像中重建三维场景](https://posts.careerengine.us/p/66346bed1830296fb67e8644)  
-- [2024-05-03-终于有人调查了小模型过拟合：三分之二都有数据污染，微软Phi-3、Mixtral-8x22B被点名](https://posts.careerengine.us/p/66346bdfee3b286f567a2b99)  
-- [2024-05-03-2023-IBM博士生奖学金华人占六成：Vicuna作者吴章昊、清华特奖得主高天宇入选](https://posts.careerengine.us/p/66346bdfee3b286f567a2b91)  
+- [2024-05-04-瑜伽球上遛「狗」！入选英伟达十大项目之一的Eureka有了新突破](https://posts.careerengine.us/p/6635b657a5b8bd1cb58d92eb)  
+- [2024-05-04-ICLR-2024-Spotlight-|-无惧中间步骤，MUSTARD可生成高质量数学推理数据](https://posts.careerengine.us/p/6635b656a5b8bd1cb58d92db)  
+- [2024-05-04-平均准确率达96.4％，中山大学&重庆大学开发基于Transformer的单细胞注释方法](https://posts.careerengine.us/p/6635b656a5b8bd1cb58d92d3)  
+- [2024-05-04-斯坦福李飞飞首次创业：学术休假两年，瞄准「空间智能」](https://posts.careerengine.us/p/6635b64193c0311c6f3adc1c)  
 - [......【查看更多】......](/details/机器之心.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -118,10 +118,10 @@
 </summary>
 
 
-- [2024-05-06-SIGIR-2024-|-共现关系还是细粒度偏好？ID和模态信息解耦的会话推荐](https://posts.careerengine.us/p/66386cb43510fb1496b17e18) ![](/assets/new.png)  
-- [2024-05-06-审稿人角度：一篇顶会论文有哪些选题技巧？](https://posts.careerengine.us/p/66386cb43510fb1496b17e21) ![](/assets/new.png)  
-- [2024-05-06-博士申请-|-香港城市大学马佳葳老师课题组招收人工智能方向全奖博士/博后](https://posts.careerengine.us/p/66386cc654aea014cc826ad8) ![](/assets/new.png)  
-- [2024-05-06-探索视频理解新境界！在12项任务中，Mamba先打败了Transformer](https://posts.careerengine.us/p/66386cc654aea014cc826ad0) ![](/assets/new.png)  
+- [2024-05-06-SIGIR-2024-|-共现关系还是细粒度偏好？ID和模态信息解耦的会话推荐](https://posts.careerengine.us/p/66386cb43510fb1496b17e18)  
+- [2024-05-06-审稿人角度：一篇顶会论文有哪些选题技巧？](https://posts.careerengine.us/p/66386cb43510fb1496b17e21)  
+- [2024-05-06-博士申请-|-香港城市大学马佳葳老师课题组招收人工智能方向全奖博士/博后](https://posts.careerengine.us/p/66386cc654aea014cc826ad8)  
+- [2024-05-06-探索视频理解新境界！在12项任务中，Mamba先打败了Transformer](https://posts.careerengine.us/p/66386cc654aea014cc826ad0)  
 - [2024-05-05-Meta联合纽约大学和华盛顿大学提出MetaCLIP，带你揭开CLIP的高质量数据之谜](https://posts.careerengine.us/p/66371a82144e9f2706796639)  
 - [2024-05-05-北京师范大学人工智能学院学术学位博士研究生（第二批）报名通知](https://posts.careerengine.us/p/66371a82144e9f2706796641)  
 - [2024-05-05-ICLR-2024-|-理解图神经网络在规则学习中的表达能力](https://posts.careerengine.us/p/66371a74e20c2926e5aaf7c2)  
@@ -176,7 +176,7 @@
 </summary>
 
 
-- [2024-05-06-前-LangChain-员工爆料更强的-Devin-2.0-要来了？所以，“世界首个AI程序员”到底造假没？](https://posts.careerengine.us/p/663865bbee53e0715bd62232) ![](/assets/new.png)  
+- [2024-05-06-前-LangChain-员工爆料更强的-Devin-2.0-要来了？所以，“世界首个AI程序员”到底造假没？](https://posts.careerengine.us/p/663865bbee53e0715bd62232)  
 - [2024-05-05-李飞飞首次创业：瞄准空间智能；巴菲特股东大会谈AI：与核武器相似；69岁比尔·盖茨被曝主导微软OpenAI联姻-|-AI-周报](https://posts.careerengine.us/p/66371a65fa70bd26c36925d3)  
 - [2024-05-04-GPT-3水平的Sora-就强大到不敢给普通人用？可我也不知道把它用在哪儿](https://posts.careerengine.us/p/6635c91031a786771d4ec053)  
 - [2024-05-03-辩证看待“幻觉”问题，蔚来汽车在AI和大模型领域的应用实践](https://posts.careerengine.us/p/663478104ef2eb2c984ab249)  
