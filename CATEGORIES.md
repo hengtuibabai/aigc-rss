@@ -1,14 +1,14 @@
 ##
 
-:alarm_clock: 更新时间: 2024-05-11 15:00:05，:rocket: 更新条数: +14， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-05-12 06:00:04，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [机器之心](#机器之心)![](/assets/dot.png)   
-- [量子位](#量子位)![](/assets/dot.png)   
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
+- [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
@@ -21,26 +21,26 @@
 </summary>
 
 
-- [2024-05-11-OpenAI下周要有大动作，奥特曼在线剧透：不是GPT-5，不是搜索引擎](https://posts.careerengine.us/p/663f72f53262a16d3081e6c4) ![](/assets/new.png)  
-- [2024-05-11-百万tokens低至1元！大模型越来越卷了](https://posts.careerengine.us/p/663f72f53262a16d3081e6bc) ![](/assets/new.png)  
-- [2024-05-11-坏了，我的RTX-3090-GPU在对我唱歌！](https://posts.careerengine.us/p/663f72f53262a16d3081e6b4) ![](/assets/new.png)  
-- [2024-05-11-人类偏好就是尺！SPPO对齐技术让大语言模型左右互搏、自我博弈](https://posts.careerengine.us/p/663f730411b7036d532b207a) ![](/assets/new.png)  
-- [2024-05-11-跟着开源的InternVL，学习如何做自己的GPT-4V](https://posts.careerengine.us/p/663f730411b7036d532b2072) ![](/assets/new.png)  
-- [2024-05-10-苹果启动AI云服务器计划，芯片直接用M2-Ultra](https://posts.careerengine.us/p/663e0f333a30e53d93393526)  
-- [2024-05-10-14-项任务测下来，GPT4V、Gemini等多模态大模型竟都没什么视觉感知能力？](https://posts.careerengine.us/p/663e0f323a30e53d93393515)  
-- [2024-05-10-3倍生成速度还降内存成本，超越Medusa2的高效解码框架终于来了](https://posts.careerengine.us/p/663e0f323a30e53d9339351d)  
-- [2024-05-10-马斯克Neuralink植入物出故障：受试者接线脱落](https://posts.careerengine.us/p/663e0f20a4d5d93d1b552a71)  
+- [2024-05-12-DiT架构大一统：一个框架集成图像、视频、音频和3D生成，可编辑、能试玩](https://posts.careerengine.us/p/6640444ff6fae16e6f507f1f) ![](/assets/new.png)  
+- [2024-05-12-从零开始手搓GPU，照着英伟达CUDA来，只用两个星期](https://posts.careerengine.us/p/6640445fc8e81e6e99896bd6) ![](/assets/new.png)  
+- [2024-05-12-Flash-Attention稳定吗？Meta、哈佛发现其模型权重偏差呈现数量级波动](https://posts.careerengine.us/p/66404470d688976ece14c279) ![](/assets/new.png)  
+- [2024-05-12-AlphaFold-3轻松应对核酸、脂类分子？科学家迫不及待地更新了评测](https://posts.careerengine.us/p/66404471d688976ece14c282) ![](/assets/new.png)  
+- [2024-05-11-跟着开源的InternVL，学习如何做自己的GPT-4V](https://posts.careerengine.us/p/663f730411b7036d532b2072)  
+- [2024-05-11-人类偏好就是尺！SPPO对齐技术让大语言模型左右互搏、自我博弈](https://posts.careerengine.us/p/663f730411b7036d532b207a)  
+- [2024-05-11-坏了，我的RTX-3090-GPU在对我唱歌！](https://posts.careerengine.us/p/663f72f53262a16d3081e6b4)  
+- [2024-05-11-百万tokens低至1元！大模型越来越卷了](https://posts.careerengine.us/p/663f72f53262a16d3081e6bc)  
+- [2024-05-11-OpenAI下周要有大动作，奥特曼在线剧透：不是GPT-5，不是搜索引擎](https://posts.careerengine.us/p/663f72f53262a16d3081e6c4)  
 - [2024-05-10-在ICLR-2024这场演讲中，智谱AI首次公开神秘项目「GLM-zero」](https://posts.careerengine.us/p/663e0f20a4d5d93d1b552a7a)  
-- [2024-05-09-网传Ilya-Sutskever的推荐清单火了，掌握当前AI-90％](https://posts.careerengine.us/p/663ca25565d2e6455781b81b)  
-- [2024-05-09-闭源赶超GPT-4-Turbo、开源击败Llama-3-70B，歪果仁：这中国大模型真香](https://posts.careerengine.us/p/663ca25565d2e6455781b813)  
-- [2024-05-09-原作者带队，LSTM真杀回来了！](https://posts.careerengine.us/p/663ca26674ddc34594f4bb80)  
-- [2024-05-09-ICLR-2024-Oral｜用巧妙的「传送」技巧，让神经网络的训练更加高效](https://posts.careerengine.us/p/663ca26674ddc34594f4bb77)  
+- [2024-05-10-马斯克Neuralink植入物出故障：受试者接线脱落](https://posts.careerengine.us/p/663e0f20a4d5d93d1b552a71)  
+- [2024-05-10-3倍生成速度还降内存成本，超越Medusa2的高效解码框架终于来了](https://posts.careerengine.us/p/663e0f323a30e53d9339351d)  
+- [2024-05-10-14-项任务测下来，GPT4V、Gemini等多模态大模型竟都没什么视觉感知能力？](https://posts.careerengine.us/p/663e0f323a30e53d93393515)  
+- [2024-05-10-苹果启动AI云服务器计划，芯片直接用M2-Ultra](https://posts.careerengine.us/p/663e0f333a30e53d93393526)  
 - [2024-05-09-10年前VAE经典论文获奖，ICLR-2024首个时间检验奖公布](https://posts.careerengine.us/p/663ca26674ddc34594f4bb6f)  
-- [2024-05-07-低质多模态数据融合，多家机构联合出了篇综述论文](https://posts.careerengine.us/p/663a57d25ea6cb64082a8bf6)  
-- [2024-05-07-前特斯拉Optimus科学家跳槽HF，直接开源了一个机器人代码库](https://posts.careerengine.us/p/663a57d15ea6cb64082a8bee)  
-- [2024-05-07-7262篇提交，ICLR-2024爆火，两篇国内论文获杰出论文提名](https://posts.careerengine.us/p/663a57c3886a986378c6542d)  
-- [2024-05-07-大模型时代的计算机视觉！CVPR-2024线上论文分享会启动](https://posts.careerengine.us/p/663a57c3886a986378c65435)  
-- [2024-05-07-2万块钱买平板：苹果新一代iPad-Pro直接上M4芯片，最强也最贵](https://posts.careerengine.us/p/663a57b4ef25226344890eba)  
+- [2024-05-09-ICLR-2024-Oral｜用巧妙的「传送」技巧，让神经网络的训练更加高效](https://posts.careerengine.us/p/663ca26674ddc34594f4bb77)  
+- [2024-05-09-原作者带队，LSTM真杀回来了！](https://posts.careerengine.us/p/663ca26674ddc34594f4bb80)  
+- [2024-05-09-闭源赶超GPT-4-Turbo、开源击败Llama-3-70B，歪果仁：这中国大模型真香](https://posts.careerengine.us/p/663ca25565d2e6455781b813)  
+- [2024-05-09-网传Ilya-Sutskever的推荐清单火了，掌握当前AI-90％](https://posts.careerengine.us/p/663ca25565d2e6455781b81b)  
+- [2024-05-07-让机器准确「看懂」手物交互动作，清华大学等提出GeneOH-Diffusion方法](https://posts.careerengine.us/p/6639b7c3390ad775f4fa11a6)  
 - [......【查看更多】......](/details/机器之心.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -52,11 +52,11 @@
 </summary>
 
 
-- [2024-05-11-国产大模型：今天起，我们100万tokens只需1元！](https://posts.careerengine.us/p/663f6e6a9bfce759b17dbebd) ![](/assets/new.png)  
-- [2024-05-11-微软打破Decoder-Only架构！大幅降低GPU内存需求，网友：把Llama3-70B弄20GB-GPU上运行](https://posts.careerengine.us/p/663f6e78c992c65a248863fb) ![](/assets/new.png)  
-- [2024-05-11-OpenAI抓内鬼出奇招，奥特曼耍了所有人：GPT搜索鸽了！改升级GPT-4](https://posts.careerengine.us/p/663f6e79c992c65a24886403) ![](/assets/new.png)  
-- [2024-05-11-AI生成3D主题乐园，角色建筑批量生成，风格保持一致-|-SIGGRAPH-2024](https://posts.careerengine.us/p/663f6e8716a82f5a5597b0a9) ![](/assets/new.png)  
-- [2024-05-11-量化之王谢幕，“用数学赚钱比印钞机还快”](https://posts.careerengine.us/p/663f6e8716a82f5a5597b0b1) ![](/assets/new.png)  
+- [2024-05-11-国产大模型：今天起，我们100万tokens只需1元！](https://posts.careerengine.us/p/663f6e6a9bfce759b17dbebd)  
+- [2024-05-11-微软打破Decoder-Only架构！大幅降低GPU内存需求，网友：把Llama3-70B弄20GB-GPU上运行](https://posts.careerengine.us/p/663f6e78c992c65a248863fb)  
+- [2024-05-11-OpenAI抓内鬼出奇招，奥特曼耍了所有人：GPT搜索鸽了！改升级GPT-4](https://posts.careerengine.us/p/663f6e79c992c65a24886403)  
+- [2024-05-11-AI生成3D主题乐园，角色建筑批量生成，风格保持一致-|-SIGGRAPH-2024](https://posts.careerengine.us/p/663f6e8716a82f5a5597b0a9)  
+- [2024-05-11-量化之王谢幕，“用数学赚钱比印钞机还快”](https://posts.careerengine.us/p/663f6e8716a82f5a5597b0b1)  
 - [2024-05-10-最详细人脑3D地图登Science！GPT-4参数只相当于人类0.2％](https://posts.careerengine.us/p/663e124fb567694a77388423)  
 - [2024-05-10-阿里云进军大模型一年，现在是开源第一名，CTO：闭源要超过所有开源模型才有机会参与讨论](https://posts.careerengine.us/p/663e124fb567694a7738842b)  
 - [2024-05-10-鹅厂开招天才高中生！专门挑战产业难题，张胜誉于旸教主领衔带队](https://posts.careerengine.us/p/663e124fb567694a77388434)  
@@ -118,10 +118,10 @@
 </summary>
 
 
-- [2024-05-11-顶会投稿之后会经历什么？以ACL-ARR-2024-Feb.为例](https://posts.careerengine.us/p/663f53e20948846390c96d39) ![](/assets/new.png)  
-- [2024-05-11-科研实习-|-南方科技大学——香港中文大学（深圳）联合招收大语言模型算法实习生](https://posts.careerengine.us/p/663f53f1b4c9cb63bf0b9ef6) ![](/assets/new.png)  
-- [2024-05-11-全面开放开源！港大发布OpenGraph：探索图基础大模型](https://posts.careerengine.us/p/663f53f1b4c9cb63bf0b9eee) ![](/assets/new.png)  
-- [2024-05-11-ICLR-2024｜用巧妙的「传送」技巧，让神经网络的训练更加高效](https://posts.careerengine.us/p/663f53f1b4c9cb63bf0b9ee6) ![](/assets/new.png)  
+- [2024-05-11-顶会投稿之后会经历什么？以ACL-ARR-2024-Feb.为例](https://posts.careerengine.us/p/663f53e20948846390c96d39)  
+- [2024-05-11-科研实习-|-南方科技大学——香港中文大学（深圳）联合招收大语言模型算法实习生](https://posts.careerengine.us/p/663f53f1b4c9cb63bf0b9ef6)  
+- [2024-05-11-全面开放开源！港大发布OpenGraph：探索图基础大模型](https://posts.careerengine.us/p/663f53f1b4c9cb63bf0b9eee)  
+- [2024-05-11-ICLR-2024｜用巧妙的「传送」技巧，让神经网络的训练更加高效](https://posts.careerengine.us/p/663f53f1b4c9cb63bf0b9ee6)  
 - [2024-05-10-深圳内推-|-腾讯AI-Lab招聘3D人体动作感知和生成方向实习生](https://posts.careerengine.us/p/663e12835789844b5ee3bf71)  
 - [2024-05-10-以蒸馏的名义：“从去噪自编码器到生成模型”重出江湖](https://posts.careerengine.us/p/663e1273405fee4b1acfda05)  
 - [2024-05-10-原作者带队！LSTM真杀回来了：我要夺回Transformer拿走的一切](https://posts.careerengine.us/p/663e1273405fee4b1acfd9fd)  
