@@ -1,6 +1,6 @@
 ##
 
-:alarm_clock: 更新时间: 2024-05-14 06:00:03，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-05-15 06:00:07，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -118,26 +118,26 @@
 </summary>
 
 
-- [2024-05-14-CVPR、AAAI、ICLR-2024满分论文出炉！](https://posts.careerengine.us/p/6642ec80ce2c420ff19ba963) ![](/assets/new.png)  
-- [2024-05-14-博士申请-|-多伦多大学孙强教授招收生成模型/LLM方向全奖博士/博后/实习生](https://posts.careerengine.us/p/6642ec8f9fcd1a1022e2a1f5) ![](/assets/new.png)  
-- [2024-05-14-ICML-2024-|-通过随机微分方程统一贝叶斯流网络和扩散模型](https://posts.careerengine.us/p/6642ec8f9fcd1a1022e2a1fd) ![](/assets/new.png)  
-- [2024-05-13-ICML-2024-|-面向第三代推荐系统：Meta提出首个生成式推荐系统模型](https://posts.careerengine.us/p/66419b49c65e3f0c3a58a2dd)  
-- [2024-05-13-博士申请-|-清华大学交叉信息院MARS-Lab招收具身智能/多模态方向博士生](https://posts.careerengine.us/p/66419b49c65e3f0c3a58a2d5)  
+- [2024-05-15-大模型微调到底有没有技术含量，或者说技术含量到底有多大？](https://posts.careerengine.us/p/664446aacc1fd834aea35d0e) ![](/assets/new.png)  
+- [2024-05-15-选择需要的Token参与训练：微软重塑语言模型训练法则，准确率飙升30％](https://posts.careerengine.us/p/664446b94e33e834e10c92cc) ![](/assets/new.png)  
+- [2024-05-15-CAA模式识别与机器智能专委会：首届深度学习模型压缩与部署技术会议](https://posts.careerengine.us/p/664446ba4e33e834e10c92d5) ![](/assets/new.png)  
+- [2024-05-15-深圳/香港/上海内推-|-商汤研究院基础语言模型团队招聘大语言模型算法研究员](https://posts.careerengine.us/p/664446c82ac1813562798062) ![](/assets/new.png)  
+- [2024-05-14-ICML-2024-|-通过随机微分方程统一贝叶斯流网络和扩散模型](https://posts.careerengine.us/p/6642ec8f9fcd1a1022e2a1fd)  
+- [2024-05-14-博士申请-|-多伦多大学孙强教授招收生成模型/LLM方向全奖博士/博后/实习生](https://posts.careerengine.us/p/6642ec8f9fcd1a1022e2a1f5)  
+- [2024-05-14-CVPR、AAAI、ICLR-2024满分论文出炉！](https://posts.careerengine.us/p/6642ec80ce2c420ff19ba963)  
 - [2024-05-13-IJCAI-2024-|-第九届“信也科技杯”全球AI算法大赛正式开赛！聚焦AI尖端赛题，31万奖金池等你挑战！](https://posts.careerengine.us/p/66419b3add57ba0bfe0f808e)  
-- [2024-05-12-【毕业论文】求解最优的任意宝可梦颜色交换算法](https://posts.careerengine.us/p/6640b0c787e5d701880ab4e6)  
-- [2024-05-12-文末送书！大语言模型应用指南：以ChatGPT为起点，从入门到精通的实践教程](https://posts.careerengine.us/p/6640b0d8a4503601c8c6e7bc)  
+- [2024-05-13-博士申请-|-清华大学交叉信息院MARS-Lab招收具身智能/多模态方向博士生](https://posts.careerengine.us/p/66419b49c65e3f0c3a58a2d5)  
+- [2024-05-13-ICML-2024-|-面向第三代推荐系统：Meta提出首个生成式推荐系统模型](https://posts.careerengine.us/p/66419b49c65e3f0c3a58a2dd)  
 - [2024-05-12-北京内推-|-中国电信人工智能研究院招聘多模态大模型算法研发实习生](https://posts.careerengine.us/p/6640b0e9dae0b7020b0c84ec)  
-- [2024-05-11-ICLR-2024｜用巧妙的「传送」技巧，让神经网络的训练更加高效](https://posts.careerengine.us/p/663f53f1b4c9cb63bf0b9ee6)  
-- [2024-05-11-全面开放开源！港大发布OpenGraph：探索图基础大模型](https://posts.careerengine.us/p/663f53f1b4c9cb63bf0b9eee)  
-- [2024-05-11-科研实习-|-南方科技大学——香港中文大学（深圳）联合招收大语言模型算法实习生](https://posts.careerengine.us/p/663f53f1b4c9cb63bf0b9ef6)  
+- [2024-05-12-文末送书！大语言模型应用指南：以ChatGPT为起点，从入门到精通的实践教程](https://posts.careerengine.us/p/6640b0d8a4503601c8c6e7bc)  
+- [2024-05-12-【毕业论文】求解最优的任意宝可梦颜色交换算法](https://posts.careerengine.us/p/6640b0c787e5d701880ab4e6)  
 - [2024-05-11-顶会投稿之后会经历什么？以ACL-ARR-2024-Feb.为例](https://posts.careerengine.us/p/663f53e20948846390c96d39)  
-- [2024-05-10-CVPR-2024-|-多模态合作学习的新视角：样本级模态的评估与协同](https://posts.careerengine.us/p/663e1272405fee4b1acfd9f5)  
-- [2024-05-10-原作者带队！LSTM真杀回来了：我要夺回Transformer拿走的一切](https://posts.careerengine.us/p/663e1273405fee4b1acfd9fd)  
-- [2024-05-10-以蒸馏的名义：“从去噪自编码器到生成模型”重出江湖](https://posts.careerengine.us/p/663e1273405fee4b1acfda05)  
+- [2024-05-11-科研实习-|-南方科技大学——香港中文大学（深圳）联合招收大语言模型算法实习生](https://posts.careerengine.us/p/663f53f1b4c9cb63bf0b9ef6)  
+- [2024-05-11-全面开放开源！港大发布OpenGraph：探索图基础大模型](https://posts.careerengine.us/p/663f53f1b4c9cb63bf0b9eee)  
+- [2024-05-11-ICLR-2024｜用巧妙的「传送」技巧，让神经网络的训练更加高效](https://posts.careerengine.us/p/663f53f1b4c9cb63bf0b9ee6)  
 - [2024-05-10-深圳内推-|-腾讯AI-Lab招聘3D人体动作感知和生成方向实习生](https://posts.careerengine.us/p/663e12835789844b5ee3bf71)  
-- [2024-05-09-爆火后反转！「一夜干掉MLP」的KAN只是一个普通的MLP？](https://posts.careerengine.us/p/663c5ccc7f7baf76d2bb2353)  
-- [2024-05-09-博后招募-|-浙江大学智能生物医用大分子实验室招收AI4Science方向博后/RA](https://posts.careerengine.us/p/663c5ccc7f7baf76d2bb235b)  
-- [2024-05-09-ICLR-2024-|-冻结住的CLIP仍可作为教师模型！港大提出全新开集动作识别模型](https://posts.careerengine.us/p/663c5cbd2510b276a8917be9)  
+- [2024-05-10-以蒸馏的名义：“从去噪自编码器到生成模型”重出江湖](https://posts.careerengine.us/p/663e1273405fee4b1acfda05)  
+- [2024-05-10-原作者带队！LSTM真杀回来了：我要夺回Transformer拿走的一切](https://posts.careerengine.us/p/663e1273405fee4b1acfd9fd)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
