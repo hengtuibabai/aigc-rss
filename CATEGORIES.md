@@ -1,14 +1,14 @@
 ##
 
-:alarm_clock: 更新时间: 2024-05-18 15:00:08，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-05-19 06:00:07，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [机器之心](#机器之心)  
-- [量子位](#量子位)  
+- [量子位](#量子位)![](/assets/dot.png)   
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
+- [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
@@ -52,26 +52,26 @@
 </summary>
 
 
-- [2024-05-18-Ilya离开OpenAI内幕曝光：奥特曼砍他团队算力，优先搞产品赚钱，离职吐槽就要失去股权](https://posts.careerengine.us/p/66483545e8004b47c3688e43)  
-- [2024-05-18-华为最新研究挑战Scaling-Law](https://posts.careerengine.us/p/66483545e8004b47c3688e4b)  
+- [2024-05-19-GPT-4o团队引发OpenAI组织创新热议！应届生领衔Sora，本科生带队GPT-1，经验职级都是浮云](https://posts.careerengine.us/p/6649833fa614640fa4637090) ![](/assets/new.png)  
+- [2024-05-19-AIGC年度激辩：3轮交互内准确率95％以上才能真正应用|-中国AIGC产业峰会](https://posts.careerengine.us/p/6649833fa614640fa4637088) ![](/assets/new.png)  
+- [2024-05-19-GPT-4o用不上，国产平替海螺AI可以先试试](https://posts.careerengine.us/p/66498351d6c3700fdecfd964) ![](/assets/new.png)  
+- [2024-05-19-奥特曼小作文否认OpenAI离职霸王条款，网友：他有前科](https://posts.careerengine.us/p/66498351d6c3700fdecfd95c) ![](/assets/new.png)  
 - [2024-05-18-Kimi挣钱的路子好抽象…](https://posts.careerengine.us/p/66483545e8004b47c3688e53)  
-- [2024-05-17-HuggingFace教你怎样做出SOTA视觉模型](https://posts.careerengine.us/p/66471a8cb4da275bb6a2828c)  
-- [2024-05-17-70B模型秒出1000token，代码重写超越GPT-4o，来自OpenAI投资的代码神器Cursor团队](https://posts.careerengine.us/p/66471a7dd92df85b3ba5c3d6)  
-- [2024-05-17-Ilya离职后第一个动作：点赞了这篇论文，网友抢着传看](https://posts.careerengine.us/p/66471a6f044cc05b117530ca)  
-- [2024-05-17-国内外140+大模型、8万+考题测评结果出炉！智源评测体系出品](https://posts.careerengine.us/p/66471a6f044cc05b117530c2)  
+- [2024-05-18-华为最新研究挑战Scaling-Law](https://posts.careerengine.us/p/66483545e8004b47c3688e4b)  
+- [2024-05-18-Ilya离开OpenAI内幕曝光：奥特曼砍他团队算力，优先搞产品赚钱，离职吐槽就要失去股权](https://posts.careerengine.us/p/66483545e8004b47c3688e43)  
 - [2024-05-17-英特尔打破40年“祖制”的CPU，AI-PC们来验收成果了](https://posts.careerengine.us/p/66471a6e044cc05b117530ba)  
-- [2024-05-16-顶流自动驾驶，正在赢得民心](https://posts.careerengine.us/p/66458cef8a09dd410499e462)  
-- [2024-05-16-李飞飞揭秘创业方向“空间智能”：视觉化为洞察，看见成为理解，理解导致行动](https://posts.careerengine.us/p/66458cef8a09dd410499e45a)  
-- [2024-05-16-GPT-4o再秀神操作，“复现”OpenAI总裁讲课，网友当真了](https://posts.careerengine.us/p/66458cfd0b5a4a413c0a8e38)  
-- [2024-05-16-识别细胞也能用大模型了！清华系团队出品，已入选ICML-2024-|-开源](https://posts.careerengine.us/p/66458cfe0b5a4a413c0a8e40)  
+- [2024-05-17-国内外140+大模型、8万+考题测评结果出炉！智源评测体系出品](https://posts.careerengine.us/p/66471a6f044cc05b117530c2)  
+- [2024-05-17-Ilya离职后第一个动作：点赞了这篇论文，网友抢着传看](https://posts.careerengine.us/p/66471a6f044cc05b117530ca)  
+- [2024-05-17-70B模型秒出1000token，代码重写超越GPT-4o，来自OpenAI投资的代码神器Cursor团队](https://posts.careerengine.us/p/66471a7dd92df85b3ba5c3d6)  
+- [2024-05-17-HuggingFace教你怎样做出SOTA视觉模型](https://posts.careerengine.us/p/66471a8cb4da275bb6a2828c)  
 - [2024-05-16-树莓派冲刺IPO，估值35亿但年营收19亿，CEO：做一家有趣又赚钱的公司](https://posts.careerengine.us/p/66458cfe0b5a4a413c0a8e48)  
-- [2024-05-15-GPT-4o成全球网友新玩具，秒秒钟纸质原型转录初始HTML，网友：谷歌你是一点流量摊不上啊](https://posts.careerengine.us/p/66448481f7921e5d1f3bce8d)  
-- [2024-05-15-蚂蚁百灵大模型一号位：GPT-4o发布不意外，原生多模态方向已明](https://posts.careerengine.us/p/66448481f7921e5d1f3bce7d)  
-- [2024-05-15-Ilya出走加剧OpenAI离职潮！RLHF作者Jan-Leike同日辞职，超级对齐项目分崩离析](https://posts.careerengine.us/p/66448481f7921e5d1f3bce85)  
-- [2024-05-15-AI拉货挣钱，已经绕地球2500圈了](https://posts.careerengine.us/p/664484715eea6f5cefbbcfcb)  
+- [2024-05-16-识别细胞也能用大模型了！清华系团队出品，已入选ICML-2024-|-开源](https://posts.careerengine.us/p/66458cfe0b5a4a413c0a8e40)  
+- [2024-05-16-GPT-4o再秀神操作，“复现”OpenAI总裁讲课，网友当真了](https://posts.careerengine.us/p/66458cfd0b5a4a413c0a8e38)  
+- [2024-05-16-李飞飞揭秘创业方向“空间智能”：视觉化为洞察，看见成为理解，理解导致行动](https://posts.careerengine.us/p/66458cef8a09dd410499e45a)  
+- [2024-05-16-顶流自动驾驶，正在赢得民心](https://posts.careerengine.us/p/66458cef8a09dd410499e462)  
 - [2024-05-15-字节跳动大模型首次全员亮相：一口气9个，价格低99％，没有参数规模和榜单分数](https://posts.careerengine.us/p/664484633699455c6ea7a1c2)  
-- [2024-05-13-网友缝合Llama3-120B竟意外能打，轻松击败GPT2-chatbot和GPT-4](https://posts.careerengine.us/p/664198f8474a177fa4110cb5)  
-- [2024-05-13-大神Karpathy强推，分词领域必读：自动钓鱼让大模型“发疯”的token，来自Transformer作者创业公司](https://posts.careerengine.us/p/664198ea4ad4a87f74bfe0fd)  
+- [2024-05-15-AI拉货挣钱，已经绕地球2500圈了](https://posts.careerengine.us/p/664484715eea6f5cefbbcfcb)  
+- [2024-05-15-Ilya出走加剧OpenAI离职潮！RLHF作者Jan-Leike同日辞职，超级对齐项目分崩离析](https://posts.careerengine.us/p/66448481f7921e5d1f3bce85)  
 - [......【查看更多】......](/details/量子位.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -118,10 +118,10 @@
 </summary>
 
 
-- [2024-05-18-缓存与效果的极限拉扯：从MHA、MQA、GQA到MLA](https://posts.careerengine.us/p/66489ae736bab82ceeba1217) ![](/assets/new.png)  
-- [2024-05-18-ICML-2024-|-大语言模型预训练新前沿：最佳适配打包重塑文档处理标准](https://posts.careerengine.us/p/66489af8edfe0f2d16d68057) ![](/assets/new.png)  
-- [2024-05-18-​SIGIR-2024-|-显式且细粒度的建模！属性——观点驱动的细粒度序列推荐](https://posts.careerengine.us/p/66489af8edfe0f2d16d68046) ![](/assets/new.png)  
-- [2024-05-18-北京内推-|-阿里通义实验室对话智能团队招聘大语言模型研究型实习生](https://posts.careerengine.us/p/66489af8edfe0f2d16d6804e) ![](/assets/new.png)  
+- [2024-05-18-缓存与效果的极限拉扯：从MHA、MQA、GQA到MLA](https://posts.careerengine.us/p/66489ae736bab82ceeba1217)  
+- [2024-05-18-ICML-2024-|-大语言模型预训练新前沿：最佳适配打包重塑文档处理标准](https://posts.careerengine.us/p/66489af8edfe0f2d16d68057)  
+- [2024-05-18-​SIGIR-2024-|-显式且细粒度的建模！属性——观点驱动的细粒度序列推荐](https://posts.careerengine.us/p/66489af8edfe0f2d16d68046)  
+- [2024-05-18-北京内推-|-阿里通义实验室对话智能团队招聘大语言模型研究型实习生](https://posts.careerengine.us/p/66489af8edfe0f2d16d6804e)  
 - [2024-05-17-博士申请-|-上海科技大学屠可伟老师招收NLP方向24级博士/25级硕博](https://posts.careerengine.us/p/664750428990345cd4377714)  
 - [2024-05-17-IJCAI-2024-|-多智能体强化学习新范式：个性化训练与蒸馏执行](https://posts.careerengine.us/p/664750428990345cd437770c)  
 - [2024-05-17-​Transformer是推断还是记忆？初始化大小很重要](https://posts.careerengine.us/p/664750428990345cd437771c)  
