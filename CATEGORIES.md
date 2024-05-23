@@ -1,6 +1,6 @@
 ##
 
-:alarm_clock: 更新时间: 2024-05-22 12:02:19，:rocket: 更新条数: +10， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-05-23 21:03:03，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -21,26 +21,26 @@
 </summary>
 
 
-- [2024-05-21-中国大模型头名易主：全球盲测榜单上，Yi-Large与GPT-4o中文并列第一](https://posts.careerengine.us/p/664c1eab2b6f5f3af104c235) ![](/assets/new.png)  
-- [2024-05-21-微软颠覆PC形态，Copilot+PC搭载GPT-4o，8688元起售](https://posts.careerengine.us/p/664c1eac2b6f5f3af104c23e) ![](/assets/new.png)  
-- [2024-05-21-CCF-阿里妈妈科技袋基金正式发布，第一期聚焦大模型方向](https://posts.careerengine.us/p/664c1ebb188e9c3b2e8c6dc6) ![](/assets/new.png)  
-- [2024-05-21-李飞飞「空间智能」系列新进展，吴佳俊团队新「BVS」套件评估计算机视觉模型](https://posts.careerengine.us/p/664c1ec9af95523b60e13adb) ![](/assets/new.png)  
-- [2024-05-21-寡姐怒了，GPT-4o系统配音强行模仿，OpenAI回应删除](https://posts.careerengine.us/p/664c1ecaaf95523b60e13ae3) ![](/assets/new.png)  
-- [2024-05-21-Hinton万字访谈：用更大模型「预测下一个词」值得全力以赴](https://posts.careerengine.us/p/664d0888fc00703c5057f1b7) ![](/assets/new.png)  
-- [2024-05-21-微软颠覆生产力：Copilot推自定义版，AI-PC原生支持PyTorch，奥特曼预告新模型](https://posts.careerengine.us/p/664d0888fc00703c5057f1af) ![](/assets/new.png)  
-- [2024-05-21-从Claude-3中提取数百万特征，首次详细理解大模型的「思维」](https://posts.careerengine.us/p/664d0888fc00703c5057f1bf) ![](/assets/new.png)  
-- [2024-05-21-简单通用：视觉基础网络最高3倍无损训练加速，清华EfficientTrain++入选TPAMI-2024](https://posts.careerengine.us/p/664d08978a640e3cef89e069) ![](/assets/new.png)  
-- [2024-05-21-弥补中文短板，社区Llama3汉化微调版效果如何？](https://posts.careerengine.us/p/664d08a510a4e33d301ed8a2) ![](/assets/new.png)  
-- [2024-05-20-让大模型理解手机屏幕，苹果多模态Ferret-UI用自然语言操控手机](https://posts.careerengine.us/p/664ad426b47a347fa8e93517)  
-- [2024-05-20-首个GPU高级语言，大规模并行就像写Python，已获8500-Star](https://posts.careerengine.us/p/664ad4174312117f74caab78)  
-- [2024-05-20-数据更多更好还是质量更高更好？这项研究能帮你做出选择](https://posts.careerengine.us/p/664ad4174312117f74caab80)  
-- [2024-05-20-Karpathy称赞，从零实现LLaMa3项目爆火，半天1.5k-star](https://posts.careerengine.us/p/664ad4093a68d17f47bf2272)  
+- [2024-05-23-世界模型也扩散！训练出的智能体竟然不错](https://posts.careerengine.us/p/664f5e3c9c80886a4665848a) ![](/assets/new.png)  
+- [2024-05-23-OpenAI、微软、智谱AI等全球16家公司共同签署前沿人工智能安全承诺](https://posts.careerengine.us/p/664f5e3c9c80886a4665847b) ![](/assets/new.png)  
+- [2024-05-23-时隔一天，百川大模型拿下国产第一，AI助手「百小应」上线](https://posts.careerengine.us/p/664f5e4bfefaac6a75378542) ![](/assets/new.png)  
+- [2024-05-23-WAIC-·-云帆奖五周年：AI-青年，执掌未来十年的钥匙](https://posts.careerengine.us/p/664f5e4bfefaac6a7537853a) ![](/assets/new.png)  
+- [2024-05-23-具身智能体三维感知新链条，TeleAI-&上海AI-Lab提出多视角融合具身模型「SAM-E」](https://posts.careerengine.us/p/664f5e5c9ab8776a9bb4bc0e) ![](/assets/new.png)  
+- [2024-05-23-大模型与具身智能的火花，ICML-2024-MFM-EAI-Workshop征稿和挑战赛启动](https://posts.careerengine.us/p/664f5e5c9ab8776a9bb4bc05) ![](/assets/new.png)  
+- [2024-05-21-弥补中文短板，社区Llama3汉化微调版效果如何？](https://posts.careerengine.us/p/664d08a510a4e33d301ed8a2)  
+- [2024-05-21-简单通用：视觉基础网络最高3倍无损训练加速，清华EfficientTrain++入选TPAMI-2024](https://posts.careerengine.us/p/664d08978a640e3cef89e069)  
+- [2024-05-21-从Claude-3中提取数百万特征，首次详细理解大模型的「思维」](https://posts.careerengine.us/p/664d0888fc00703c5057f1bf)  
+- [2024-05-21-微软颠覆生产力：Copilot推自定义版，AI-PC原生支持PyTorch，奥特曼预告新模型](https://posts.careerengine.us/p/664d0888fc00703c5057f1af)  
+- [2024-05-21-Hinton万字访谈：用更大模型「预测下一个词」值得全力以赴](https://posts.careerengine.us/p/664d0888fc00703c5057f1b7)  
+- [2024-05-21-寡姐怒了，GPT-4o系统配音强行模仿，OpenAI回应删除](https://posts.careerengine.us/p/664c1ecaaf95523b60e13ae3)  
+- [2024-05-21-李飞飞「空间智能」系列新进展，吴佳俊团队新「BVS」套件评估计算机视觉模型](https://posts.careerengine.us/p/664c1ec9af95523b60e13adb)  
+- [2024-05-21-CCF-阿里妈妈科技袋基金正式发布，第一期聚焦大模型方向](https://posts.careerengine.us/p/664c1ebb188e9c3b2e8c6dc6)  
+- [2024-05-21-微软颠覆PC形态，Copilot+PC搭载GPT-4o，8688元起售](https://posts.careerengine.us/p/664c1eac2b6f5f3af104c23e)  
+- [2024-05-21-中国大模型头名易主：全球盲测榜单上，Yi-Large与GPT-4o中文并列第一](https://posts.careerengine.us/p/664c1eab2b6f5f3af104c235)  
 - [2024-05-20-大模型进入「实用」时代！腾讯助力「销冠」量产，5-分钟创建智能助手](https://posts.careerengine.us/p/664ad4093a68d17f47bf227b)  
-- [2024-05-19-OpenAI-CEO下场回应「封口协议」，争议还是到了股权利益上，奥特曼：我的锅](https://posts.careerengine.us/p/6649831303c68f0ea4bc5375)  
-- [2024-05-19-在对齐-AI-时，为什么在线方法总是优于离线方法？](https://posts.careerengine.us/p/6649832210a8560ed61f01cf)  
-- [2024-05-19-替代MLP的KAN，被开源项目扩展到卷积了](https://posts.careerengine.us/p/66498330d2d2b90f75693199)  
-- [2024-05-19-多功能RNA分析，百度团队基于Transformer的RNA语言模型登Nature子刊](https://posts.careerengine.us/p/66498330d2d2b90f75693191)  
-- [2024-05-18-多模态AI是医学的未来，谷歌推出三个新模型，Med-Gemini迎来大升级](https://posts.careerengine.us/p/664836ae9034f04ea959849a)  
+- [2024-05-20-Karpathy称赞，从零实现LLaMa3项目爆火，半天1.5k-star](https://posts.careerengine.us/p/664ad4093a68d17f47bf2272)  
+- [2024-05-20-数据更多更好还是质量更高更好？这项研究能帮你做出选择](https://posts.careerengine.us/p/664ad4174312117f74caab80)  
+- [2024-05-20-首个GPU高级语言，大规模并行就像写Python，已获8500-Star](https://posts.careerengine.us/p/664ad4174312117f74caab78)  
 - [......【查看更多】......](/details/机器之心.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
