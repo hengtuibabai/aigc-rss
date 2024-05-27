@@ -1,14 +1,14 @@
 ##
 
-:alarm_clock: 更新时间: 2024-05-26 18:00:08，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-05-27 06:00:05，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [机器之心](#机器之心)  
-- [量子位](#量子位)  
+- [量子位](#量子位)![](/assets/dot.png)   
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
+- [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
@@ -52,26 +52,26 @@
 </summary>
 
 
-- [2024-05-26-Hinton揭秘Ilya成长历程：Scaling-Law是他学生时代就有的直觉](https://posts.careerengine.us/p/6652cd7b6c73f91f3a09569c)  
-- [2024-05-26-硅谷VC张璐：硅谷大模型市场已明确分为三类，三大应用领域迭代速度较快-|-中国AIGC产业峰会](https://posts.careerengine.us/p/6652cd8aca41e71f5a875275)  
-- [2024-05-26-OpenAI又一吹哨人离职！拉响安全警报，风险隐患实在太大](https://posts.careerengine.us/p/6652cd9a26f88e1fbc7f7aea)  
+- [2024-05-27-港大字节提出多模态大模型新范式，模拟人类先感知后认知，精确定位图中物体](https://posts.careerengine.us/p/66540617c75a9577d0fcdb10) ![](/assets/new.png)  
+- [2024-05-27-理想变了！技术研发投入每3天1个亿，领跑造车新势力](https://posts.careerengine.us/p/66540617c75a9577d0fcdb18) ![](/assets/new.png)  
+- [2024-05-27-陈丹琦团队新作：微调8B模型超越Claude3-Opus，背后是RLHF新平替](https://posts.careerengine.us/p/665406263f1e2977fa9a8d0a) ![](/assets/new.png)  
+- [2024-05-27-目标检测新SOTA，端侧实时识别，沈向洋罕见转发点赞](https://posts.careerengine.us/p/66540634771644781607540e) ![](/assets/new.png)  
 - [2024-05-26-喂饭级教程，看我如何用ChatGPT-4o做一款俄罗斯方块游戏！](https://posts.careerengine.us/p/6652cd9a26f88e1fbc7f7ae2)  
-- [2024-05-25-无障碍化身小黑子只需6枚传感器，来自清华轻量化动捕新成果｜SIGGRAPH-2024](https://posts.careerengine.us/p/66518d4938bb8c2132ea6c81)  
-- [2024-05-25-大模型“国家队”发力了-，中国移动发布“万百千”](https://posts.careerengine.us/p/66518d4938bb8c2132ea6c79)  
-- [2024-05-25-鹅厂造了个AI翻译公司：专攻网络小说，自动适配语言风格，真人和GPT-4看了都说好](https://posts.careerengine.us/p/66518d4838bb8c2132ea6c71)  
+- [2024-05-26-OpenAI又一吹哨人离职！拉响安全警报，风险隐患实在太大](https://posts.careerengine.us/p/6652cd9a26f88e1fbc7f7aea)  
+- [2024-05-26-硅谷VC张璐：硅谷大模型市场已明确分为三类，三大应用领域迭代速度较快-|-中国AIGC产业峰会](https://posts.careerengine.us/p/6652cd8aca41e71f5a875275)  
+- [2024-05-26-Hinton揭秘Ilya成长历程：Scaling-Law是他学生时代就有的直觉](https://posts.careerengine.us/p/6652cd7b6c73f91f3a09569c)  
 - [2024-05-25-AI独角兽集体求卖身，新一轮洗牌期开始了](https://posts.careerengine.us/p/66518d39cfb8b02117c37021)  
-- [2024-05-24-谷歌AI搜索闯大祸！建议网友吃石头、毒蘑菇，把胶水加到披萨上，评论区炸了](https://posts.careerengine.us/p/6650431c706ffe03678bb739)  
-- [2024-05-24-桌面版ChatGPT登台演讲，能视频通话还会实时读屏，GPT-4o最新demo再次惊艳：“能力还是被低估了”](https://posts.careerengine.us/p/6650430e45dc20033f01281b)  
-- [2024-05-24-如何靠AI变身“六边形战士”｜得到快刀青衣&中国AIGC产业峰会](https://posts.careerengine.us/p/6650430d45dc20033f012813)  
+- [2024-05-25-鹅厂造了个AI翻译公司：专攻网络小说，自动适配语言风格，真人和GPT-4看了都说好](https://posts.careerengine.us/p/66518d4838bb8c2132ea6c71)  
+- [2024-05-25-大模型“国家队”发力了-，中国移动发布“万百千”](https://posts.careerengine.us/p/66518d4938bb8c2132ea6c79)  
+- [2024-05-25-无障碍化身小黑子只需6枚传感器，来自清华轻量化动捕新成果｜SIGGRAPH-2024](https://posts.careerengine.us/p/66518d4938bb8c2132ea6c81)  
 - [2024-05-24-微软高通英特尔都力推的AI-PC，为啥联想更先造好？](https://posts.careerengine.us/p/665042ffbcde73032366fd40)  
-- [2024-05-23-英伟达股价首次破1000美元！黄仁勋：Token生意将创造100万亿价值](https://posts.careerengine.us/p/664efa95127a4f6c2a8e232d)  
+- [2024-05-24-如何靠AI变身“六边形战士”｜得到快刀青衣&中国AIGC产业峰会](https://posts.careerengine.us/p/6650430d45dc20033f012813)  
+- [2024-05-24-桌面版ChatGPT登台演讲，能视频通话还会实时读屏，GPT-4o最新demo再次惊艳：“能力还是被低估了”](https://posts.careerengine.us/p/6650430e45dc20033f01281b)  
+- [2024-05-24-谷歌AI搜索闯大祸！建议网友吃石头、毒蘑菇，把胶水加到披萨上，评论区炸了](https://posts.careerengine.us/p/6650431c706ffe03678bb739)  
 - [2024-05-23-百川新模型冲顶中文测试基准！首款AI助手“百小应”同时发布，“最懂搜索”](https://posts.careerengine.us/p/664efa73605b926bda65239e)  
-- [2024-05-21-豆包大模型价格出炉！超高并发，“后付费”支持每分钟万次请求](https://posts.careerengine.us/p/664c2beb49f42e7c422d5bf2)  
-- [2024-05-21-击穿全网底价，通义千问GPT-4级大模型直降97％！1块钱能买200万tokens](https://posts.careerengine.us/p/664c2beb49f42e7c422d5bea)  
-- [2024-05-21-黑马！大模型竞技场榜单更新，国产玩家首次进入全球总榜前10](https://posts.careerengine.us/p/664c2bfae98f507c76db9eb2)  
-- [2024-05-21-寡姐怒斥ChatGPT盗用自己声音，OpenAI：已下架，但真没模仿她](https://posts.careerengine.us/p/664c2c0801c6de7d0bb72040)  
+- [2024-05-23-英伟达股价首次破1000美元！黄仁勋：Token生意将创造100万亿价值](https://posts.careerengine.us/p/664efa95127a4f6c2a8e232d)  
 - [2024-05-21-直播预告：AIGC好产品如何炼成？来听万兴科技在线分享｜量子位智库-x-万兴科技](https://posts.careerengine.us/p/664c2c0801c6de7d0bb72048)  
-- [2024-05-20-北大袁粒：用户不会为只能“闲聊”的大模型买单-|-中国AIGC产业峰会](https://posts.careerengine.us/p/664b1b7ea71e835903c07584)  
+- [2024-05-21-寡姐怒斥ChatGPT盗用自己声音，OpenAI：已下架，但真没模仿她](https://posts.careerengine.us/p/664c2c0801c6de7d0bb72040)  
 - [......【查看更多】......](/details/量子位.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -118,9 +118,9 @@
 </summary>
 
 
-- [2024-05-26-ICML-2024-|-即插即用！无需训练！基于球面高斯约束引导的条件扩散模型](https://posts.careerengine.us/p/6653570fd01413402f736b7a) ![](/assets/new.png)  
-- [2024-05-26-如何花3400配置一台室内无噪音，48GB显存的深度学习服务器？](https://posts.careerengine.us/p/6653571e4f7ea64050df5f8e) ![](/assets/new.png)  
-- [2024-05-26-深圳内推-|-百度⽂⼼（ERNIE）团队招聘⼤模型算法实习⽣](https://posts.careerengine.us/p/6653572d9aca1940cf99f8d7) ![](/assets/new.png)  
+- [2024-05-26-ICML-2024-|-即插即用！无需训练！基于球面高斯约束引导的条件扩散模型](https://posts.careerengine.us/p/6653570fd01413402f736b7a)  
+- [2024-05-26-如何花3400配置一台室内无噪音，48GB显存的深度学习服务器？](https://posts.careerengine.us/p/6653571e4f7ea64050df5f8e)  
+- [2024-05-26-深圳内推-|-百度⽂⼼（ERNIE）团队招聘⼤模型算法实习⽣](https://posts.careerengine.us/p/6653572d9aca1940cf99f8d7)  
 - [2024-05-25-复旦发布公开匿名评测平台：3D生成模型同台竞技，魁首究竟花落谁家！](https://posts.careerengine.us/p/6651de5e93cc6a66ba8be7f7)  
 - [2024-05-25-博士申请-|-香港科技大学（广州）戴恩炎老师招收可信AI方向全奖博士/RA/实习生](https://posts.careerengine.us/p/6651de5e93cc6a66ba8be7ff)  
 - [2024-05-25-文末送书！解构大语言模型：从线性回归到通用人工智能](https://posts.careerengine.us/p/6651de4fa191586689d16220)  
