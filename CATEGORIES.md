@@ -1,14 +1,14 @@
 ##
 
-:alarm_clock: 更新时间: 2024-05-29 12:00:04，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-05-29 15:00:18，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [机器之心](#机器之心)  
-- [量子位](#量子位)![](/assets/dot.png)   
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)  
+- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
@@ -52,11 +52,11 @@
 </summary>
 
 
-- [2024-05-29-Karpathy新教程爆火，网友抢着送他H100：从头复现GPT-2训练](https://posts.careerengine.us/p/6656f7d303282662f7cda263) ![](/assets/new.png)  
-- [2024-05-29-搞医学影像，为什么都青睐于CPU？](https://posts.careerengine.us/p/6656f7d303282662f7cda274) ![](/assets/new.png)  
-- [2024-05-29-AlphaFold-3不开源，统一生物语言大模型阿里云先开了！](https://posts.careerengine.us/p/6656f7d303282662f7cda26c) ![](/assets/new.png)  
-- [2024-05-29-北大北邮的门，机器人开](https://posts.careerengine.us/p/6656f7ea85735963205c3655) ![](/assets/new.png)  
-- [2024-05-29-用GPT-3.5生成数据集！北大天工等团队图像编辑新SOTA，可精准模拟物理世界场景](https://posts.careerengine.us/p/6656f7ea85735963205c3645) ![](/assets/new.png)  
+- [2024-05-29-Karpathy新教程爆火，网友抢着送他H100：从头复现GPT-2训练](https://posts.careerengine.us/p/6656f7d303282662f7cda263)  
+- [2024-05-29-搞医学影像，为什么都青睐于CPU？](https://posts.careerengine.us/p/6656f7d303282662f7cda274)  
+- [2024-05-29-AlphaFold-3不开源，统一生物语言大模型阿里云先开了！](https://posts.careerengine.us/p/6656f7d303282662f7cda26c)  
+- [2024-05-29-北大北邮的门，机器人开](https://posts.careerengine.us/p/6656f7ea85735963205c3655)  
+- [2024-05-29-用GPT-3.5生成数据集！北大天工等团队图像编辑新SOTA，可精准模拟物理世界场景](https://posts.careerengine.us/p/6656f7ea85735963205c3645)  
 - [2024-05-28-多模态CoT思维链架构来了，现已开源｜来自厦大&腾讯优图](https://posts.careerengine.us/p/66555e775f0f6a4465891cc6)  
 - [2024-05-28-3D生成竞技场来了！比拼360°环绕视频，最强模型由你pick](https://posts.careerengine.us/p/66555e765f0f6a4465891cbe)  
 - [2024-05-28-国产开源Sora上新：全面支持国产AI算力，可用ReVideo视频编辑，北大——兔展团队出品](https://posts.careerengine.us/p/66555e755f0f6a4465891cb5)  
@@ -118,26 +118,26 @@
 </summary>
 
 
-- [2024-05-28-从啥也不会到DPO：大模型微调（Fine-Tuning）实践经验最全总结](https://posts.careerengine.us/p/665561cca7450651395f73c8)  
-- [2024-05-28-EI会议大盘点！涵盖计算机图像视觉、机器学习等众多方向](https://posts.careerengine.us/p/665561de3d14fe51b11cfba8)  
-- [2024-05-28-博士申请-|-北京大学计算机学院樊文飞院士团队招收2025级大数据方向直博生](https://posts.careerengine.us/p/665561de3d14fe51b11cfba0)  
+- [2024-05-29-免费开放！智谱Batch-API正式上线：GLM-4大模型批量处理、无并发限制](https://posts.careerengine.us/p/665713ddba33265082242c9a) ![](/assets/new.png)  
+- [2024-05-29-ACL-2024-Findings-|-视频大语言模型能理解视频中的时序信息吗？](https://posts.careerengine.us/p/665713deba33265082242ca2) ![](/assets/new.png)  
+- [2024-05-29-将注意力视为RNN！Bengio等人新作媲美Transformer，但超级省内存](https://posts.careerengine.us/p/665713ed0ddb675126f9ca34) ![](/assets/new.png)  
+- [2024-05-29-北京内推-|-​昆仑天工招聘数字人方向AIGC算法研究员/实习生](https://posts.careerengine.us/p/665713ed0ddb675126f9ca3c) ![](/assets/new.png)  
 - [2024-05-28-CVPR-2024-|-双手协作双物体的数据集TACO：引领可泛化手物交互的新方向](https://posts.careerengine.us/p/665561df3d14fe51b11cfbb0)  
-- [2024-05-27-报名开启！北京师范大学人工智能学院2024年优秀大学生夏令营](https://posts.careerengine.us/p/66540f671fd8af1e7b2a8c92)  
-- [2024-05-27-ICML-2024-|-新型傅立叶微调来了！脱离LoRA架构，训练参数大幅减少](https://posts.careerengine.us/p/66540f5971a0171e02b59799)  
-- [2024-05-27-顶刊IJCV-2024-|-EfficientSCI++：高效的视频单曝光压缩成像重建框架](https://posts.careerengine.us/p/66540f4ad15e191de1f3a7c1)  
+- [2024-05-28-博士申请-|-北京大学计算机学院樊文飞院士团队招收2025级大数据方向直博生](https://posts.careerengine.us/p/665561de3d14fe51b11cfba0)  
+- [2024-05-28-EI会议大盘点！涵盖计算机图像视觉、机器学习等众多方向](https://posts.careerengine.us/p/665561de3d14fe51b11cfba8)  
+- [2024-05-28-从啥也不会到DPO：大模型微调（Fine-Tuning）实践经验最全总结](https://posts.careerengine.us/p/665561cca7450651395f73c8)  
 - [2024-05-27-只要敢捞“偏门”，篇篇都是顶刊！](https://posts.careerengine.us/p/66540f4ad15e191de1f3a7c9)  
-- [2024-05-26-ICML-2024-|-即插即用！无需训练！基于球面高斯约束引导的条件扩散模型](https://posts.careerengine.us/p/6653570fd01413402f736b7a)  
-- [2024-05-26-如何花3400配置一台室内无噪音，48GB显存的深度学习服务器？](https://posts.careerengine.us/p/6653571e4f7ea64050df5f8e)  
+- [2024-05-27-顶刊IJCV-2024-|-EfficientSCI++：高效的视频单曝光压缩成像重建框架](https://posts.careerengine.us/p/66540f4ad15e191de1f3a7c1)  
+- [2024-05-27-ICML-2024-|-新型傅立叶微调来了！脱离LoRA架构，训练参数大幅减少](https://posts.careerengine.us/p/66540f5971a0171e02b59799)  
+- [2024-05-27-报名开启！北京师范大学人工智能学院2024年优秀大学生夏令营](https://posts.careerengine.us/p/66540f671fd8af1e7b2a8c92)  
 - [2024-05-26-深圳内推-|-百度⽂⼼（ERNIE）团队招聘⼤模型算法实习⽣](https://posts.careerengine.us/p/6653572d9aca1940cf99f8d7)  
-- [2024-05-25-复旦发布公开匿名评测平台：3D生成模型同台竞技，魁首究竟花落谁家！](https://posts.careerengine.us/p/6651de5e93cc6a66ba8be7f7)  
-- [2024-05-25-博士申请-|-香港科技大学（广州）戴恩炎老师招收可信AI方向全奖博士/RA/实习生](https://posts.careerengine.us/p/6651de5e93cc6a66ba8be7ff)  
-- [2024-05-25-文末送书！解构大语言模型：从线性回归到通用人工智能](https://posts.careerengine.us/p/6651de4fa191586689d16220)  
+- [2024-05-26-如何花3400配置一台室内无噪音，48GB显存的深度学习服务器？](https://posts.careerengine.us/p/6653571e4f7ea64050df5f8e)  
+- [2024-05-26-ICML-2024-|-即插即用！无需训练！基于球面高斯约束引导的条件扩散模型](https://posts.careerengine.us/p/6653570fd01413402f736b7a)  
 - [2024-05-25-ICML-2024-|-北大、字节提出新型双层位置编码方案，有效改善长度外推效果](https://posts.careerengine.us/p/6651de4fa191586689d16228)  
-- [2024-05-24-深入研讨语言模型中知识的生命周期，ACL-2024-Workshop征稿启动](https://posts.careerengine.us/p/66501b9d7eda7163ad3dc2ba)  
-- [2024-05-24-NAACL-2024-|-基于LLM的问答系统：表格转文本方法为什么能成功？](https://posts.careerengine.us/p/66501b8d93f1a06334291a54)  
+- [2024-05-25-文末送书！解构大语言模型：从线性回归到通用人工智能](https://posts.careerengine.us/p/6651de4fa191586689d16220)  
+- [2024-05-25-博士申请-|-香港科技大学（广州）戴恩炎老师招收可信AI方向全奖博士/RA/实习生](https://posts.careerengine.us/p/6651de5e93cc6a66ba8be7ff)  
+- [2024-05-25-复旦发布公开匿名评测平台：3D生成模型同台竞技，魁首究竟花落谁家！](https://posts.careerengine.us/p/6651de5e93cc6a66ba8be7f7)  
 - [2024-05-24-最全！LLaMA-3/2/1模型结构总览-&-亮点分析](https://posts.careerengine.us/p/66501b8d93f1a06334291a4c)  
-- [2024-05-22-李飞飞空间智能系列新进展：吴佳俊团队发布BVS套件全面评估CV模型](https://posts.careerengine.us/p/664e0bec0ef62e2ce154742e)  
-- [2024-05-22-博士申请-|-复旦大学智能人机交互实验室招收2025级硕博生（夏令营/推免）](https://posts.careerengine.us/p/664e0bec0ef62e2ce1547436)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
