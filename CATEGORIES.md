@@ -1,14 +1,14 @@
 ##
 
-:alarm_clock: 更新时间: 2024-06-14 06:00:06，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-06-14 10:00:04，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [机器之心](#机器之心)  
-- [量子位](#量子位)  
+- [量子位](#量子位)![](/assets/dot.png)   
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
+- [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
@@ -52,26 +52,26 @@
 </summary>
 
 
-- [2024-06-13-字节扣子搭建大模型擂台：匿名PK效果，用户当裁判，跑分时代要结束了](https://posts.careerengine.us/p/666ab2acf8e51d727b0bb2c3)  
-- [2024-06-13-英伟达投的Sora竞品免费了！网友挤爆服务器，120秒120帧支持垫图](https://posts.careerengine.us/p/666ab2bb56528d72b24ceda0)  
-- [2024-06-13-2.5％KV缓存保持大模型90％性能，大模型金字塔式信息汇聚模式探秘｜开源](https://posts.careerengine.us/p/666ab2bb56528d72b24ceda8)  
-- [2024-06-13-Stable-Diffusion-3开源秒翻车，画人好掉san](https://posts.careerengine.us/p/666ab2bc56528d72b24cedb0)  
+- [2024-06-14-规格拉满！Llama和Sora作者都来刷脸的中国AI春晚，还开源了一大堆大模型成果](https://posts.careerengine.us/p/666c0f979bb60c0b040f956b) ![](/assets/new.png)  
+- [2024-06-14-CVPR‘24全程满分+最佳论文候选！上交大港中文等提出神经场网格模型三大定理](https://posts.careerengine.us/p/666c0fa6fdd9850b282da168) ![](/assets/new.png)  
+- [2024-06-14-大模型理解复杂表格，字节&中科大出手了](https://posts.careerengine.us/p/666c0fb547a26d0b559b0b49) ![](/assets/new.png)  
+- [2024-06-14-140元，任何普通眼镜爆改AI助手，网友：《黑镜》成真](https://posts.careerengine.us/p/666c0fb547a26d0b559b0b41) ![](/assets/new.png)  
 - [2024-06-13-一句话手机自己打车，开源多智能体AI助手，非苹果手机也能玩](https://posts.careerengine.us/p/666ab2ccb4716273209f1d44)  
-- [2024-06-12-GPT-4o更容易越狱？北航&南洋理工上万次测试给出详细分析](https://posts.careerengine.us/p/66693116166b344696845695)  
-- [2024-06-12-全华人团队推出多模态大模型新基准，GPT-4o准确率仅为65.5％，所有模型最易犯感知错误](https://posts.careerengine.us/p/66693107222590466adc1ba9)  
-- [2024-06-12-马斯克悄然撤诉OpenAI！xAI融资招聘顺利，战略拖延已达成？](https://posts.careerengine.us/p/66693107222590466adc1bb1)  
+- [2024-06-13-Stable-Diffusion-3开源秒翻车，画人好掉san](https://posts.careerengine.us/p/666ab2bc56528d72b24cedb0)  
+- [2024-06-13-2.5％KV缓存保持大模型90％性能，大模型金字塔式信息汇聚模式探秘｜开源](https://posts.careerengine.us/p/666ab2bb56528d72b24ceda8)  
+- [2024-06-13-英伟达投的Sora竞品免费了！网友挤爆服务器，120秒120帧支持垫图](https://posts.careerengine.us/p/666ab2bb56528d72b24ceda0)  
+- [2024-06-13-字节扣子搭建大模型擂台：匿名PK效果，用户当裁判，跑分时代要结束了](https://posts.careerengine.us/p/666ab2acf8e51d727b0bb2c3)  
 - [2024-06-12-手机流畅运行470亿大模型：上交大发布LLM手机推理框架PowerInfer-2，提速29倍](https://posts.careerengine.us/p/666930f8ef51b545e1dc47e8)  
-- [2024-06-11-AI重新定义导航，弯道会车无灯路口提前预警，网友：导航成精了！](https://posts.careerengine.us/p/6667ef02334ab6289409863f)  
-- [2024-06-11-马斯克怒斥苹果接入ChatGPT：真敢集成就在全公司禁用](https://posts.careerengine.us/p/6667ef10c053f928b66dfb8d)  
+- [2024-06-12-马斯克悄然撤诉OpenAI！xAI融资招聘顺利，战略拖延已达成？](https://posts.careerengine.us/p/66693107222590466adc1bb1)  
+- [2024-06-12-全华人团队推出多模态大模型新基准，GPT-4o准确率仅为65.5％，所有模型最易犯感知错误](https://posts.careerengine.us/p/66693107222590466adc1ba9)  
+- [2024-06-12-GPT-4o更容易越狱？北航&南洋理工上万次测试给出详细分析](https://posts.careerengine.us/p/66693116166b344696845695)  
 - [2024-06-11-全面超越Transformer！清华蚂蚁推出纯MLP架构，长短程时序预测大幅提升](https://posts.careerengine.us/p/6667ef11c053f928b66dfb95)  
-- [2024-06-09-5秒完成3D生成，真香合成数据集已开源，上交港中文新框架超越Instant3D](https://posts.careerengine.us/p/66654a6005a0c02e03898b99)  
-- [2024-06-09-港大北航等1bit大模型引热议，IEEE刊物评“解决AI能源需求”！作者亲自解读在此](https://posts.careerengine.us/p/66654a6005a0c02e03898b91)  
-- [2024-06-09-马斯克擎天柱大将跳槽，在抱抱脸开源一套机器人技术：会做家务的大白，复刻低至1800](https://posts.careerengine.us/p/66654a52fb566b2d8280a3c9)  
+- [2024-06-11-马斯克怒斥苹果接入ChatGPT：真敢集成就在全公司禁用](https://posts.careerengine.us/p/6667ef10c053f928b66dfb8d)  
+- [2024-06-11-AI重新定义导航，弯道会车无灯路口提前预警，网友：导航成精了！](https://posts.careerengine.us/p/6667ef02334ab6289409863f)  
 - [2024-06-09-苹果AI升级大泄露，Siri将在iOS18重生！库克重新定义AI为Apple-Intelligence](https://posts.careerengine.us/p/66654a4377708f2d685aa8fb)  
-- [2024-06-08-开源超闭源！通义千问Qwen2发布即爆火，网友：GPT-4o危](https://posts.careerengine.us/p/6663eeb8acfecd3348e9a30a)  
-- [2024-06-08-张亚勤：Transformer五年内会被逐步重构，15-20年内实现AGI-|-清华AIR无锡创新中心成立](https://posts.careerengine.us/p/6663eec7972a6833cefb1e33)  
-- [2024-06-08-清华系细胞大模型登Nature子刊！能对人类2万基因同时建模，代码已开源](https://posts.careerengine.us/p/6663eed95da4a933f9ad8a46)  
-- [2024-06-08-量化大模型退化严重？ETH北航字节推出LoRA新范式-|-ICML-2024](https://posts.careerengine.us/p/6663eed95da4a933f9ad8a3d)  
+- [2024-06-09-马斯克擎天柱大将跳槽，在抱抱脸开源一套机器人技术：会做家务的大白，复刻低至1800](https://posts.careerengine.us/p/66654a52fb566b2d8280a3c9)  
+- [2024-06-09-港大北航等1bit大模型引热议，IEEE刊物评“解决AI能源需求”！作者亲自解读在此](https://posts.careerengine.us/p/66654a6005a0c02e03898b91)  
+- [2024-06-09-5秒完成3D生成，真香合成数据集已开源，上交港中文新框架超越Instant3D](https://posts.careerengine.us/p/66654a6005a0c02e03898b99)  
 - [......【查看更多】......](/details/量子位.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -118,10 +118,10 @@
 </summary>
 
 
-- [2024-06-14-港大、北大等发布最新综述：一文解析生成技术在时空数据挖掘中的应用](https://posts.careerengine.us/p/666bd48bd342571975bc51d2) ![](/assets/new.png)  
-- [2024-06-14-智源联合多所高校推出首个多任务长视频评测基准MLVU](https://posts.careerengine.us/p/666bd48bd342571975bc51ca) ![](/assets/new.png)  
-- [2024-06-14-已开源！可控视频生成新SOTA，给定参考人物图像即可定制高质量跳舞视频](https://posts.careerengine.us/p/666bd49ffa611219a1a225ed) ![](/assets/new.png)  
-- [2024-06-14-北京/上海内推-|-​地平线招聘多模态感知算法工程师/实习生](https://posts.careerengine.us/p/666bd49ffa611219a1a225f5) ![](/assets/new.png)  
+- [2024-06-14-港大、北大等发布最新综述：一文解析生成技术在时空数据挖掘中的应用](https://posts.careerengine.us/p/666bd48bd342571975bc51d2)  
+- [2024-06-14-智源联合多所高校推出首个多任务长视频评测基准MLVU](https://posts.careerengine.us/p/666bd48bd342571975bc51ca)  
+- [2024-06-14-已开源！可控视频生成新SOTA，给定参考人物图像即可定制高质量跳舞视频](https://posts.careerengine.us/p/666bd49ffa611219a1a225ed)  
+- [2024-06-14-北京/上海内推-|-​地平线招聘多模态感知算法工程师/实习生](https://posts.careerengine.us/p/666bd49ffa611219a1a225f5)  
 - [2024-06-13-北大联合字节提出多模态评估流程ConBench：揭示VLM的不一致性](https://posts.careerengine.us/p/666a8110a34edc28a3a24c3c)  
 - [2024-06-13-博士申请-|-加州大学默塞德分校王艺炜老师招收NLP/LLM方向全奖博士/RA/实习生](https://posts.careerengine.us/p/666a8110a34edc28a3a24c34)  
 - [2024-06-13-ICML-2024-|-即插即用、快速适配！港大发布全新智慧交通时空预测模型FlashST](https://posts.careerengine.us/p/666a80fa624e55287be2337a)  
