@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-10-15 15:00:08。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-10-15 18:00:07。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 微软
 
@@ -32,6 +32,7 @@
 - [2023-09-05-CVPR-2023-|-​微软亚洲研究院提出TinyMIM，用知识蒸馏改进小型ViT](https://posts.careerengine.us/p/64f6b8e9f41ef838f7d45d45) 
 - [2023-08-27-北京内推-|-微软亚洲研究院自然语言计算组招聘NLP方向研究实习生](https://posts.careerengine.us/p/64eb587085dd1d21a2c18785) 
 - [2023-07-26-北京内推-|-微软亚洲互联网工程院微软搜索广告算法团队招聘NLP算法实习生](https://posts.careerengine.us/p/64c13ff093b8c152f8e07f19) 
+- [2024-10-15-关于微软Azure的数据存储课程评析与推荐](https://www.52nlp.cn/%e5%85%b3%e4%ba%8e%e5%be%ae%e8%bd%afazure%e7%9a%84%e6%95%b0%e6%8d%ae%e5%ad%98%e5%82%a8%e8%af%be%e7%a8%8b%e8%af%84%e6%9e%90%e4%b8%8e%e6%8e%a8%e8%8d%90) 
 - [2024-06-04-一边增长一边裁员！微软大刀挥向Azure云及混合现实部门，上千人业绩好也逃不掉被裁？](https://posts.careerengine.us/p/665eb33bf7a9f6342b9c2d80) 
 - [2023-09-26-微软裁员内幕](https://posts.careerengine.us/p/65142db8c2abb16907207ee8) 
 - [2023-09-03-微软-Dev-Box-正式发布：加速开发者工作流程](https://posts.careerengine.us/p/64f41b8dea681654e6eb2acd) 
