@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-10-16 15:00:06。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-10-16 18:00:07。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AI
 
@@ -1103,6 +1103,7 @@
 - [2023-07-05-科学计算前沿，邀你共同探讨！AI-for-Science交流会来了！](https://posts.careerengine.us/p/64a54402474c130f4306460f) 
 - [2023-06-27-揭开AI神秘面纱：精准识别机器生成文本，捍卫人工创作的最后防线！](https://posts.careerengine.us/p/649a75e6a7a52c7fa076495a) 
 - [2024-10-16-IBM-AI-工程课程详评与推荐](https://www.52nlp.cn/ibm-ai-%e5%b7%a5%e7%a8%8b%e8%af%be%e7%a8%8b%e8%af%a6%e8%af%84%e4%b8%8e%e6%8e%a8%e8%8d%90) 
+- [2024-10-16-深入了解Akamai客户咨询与支持课程-——-职业新起点的理想选择](https://www.52nlp.cn/%e6%b7%b1%e5%85%a5%e4%ba%86%e8%a7%a3akamai%e5%ae%a2%e6%88%b7%e5%92%a8%e8%af%a2%e4%b8%8e%e6%94%af%e6%8c%81%e8%af%be%e7%a8%8b-%e8%81%8c%e4%b8%9a%e6%96%b0%e8%b5%b7%e7%82%b9%e7%9a%84) 
 - [2022-12-28-AIGC用于智能写作的技术综述](https://www.52nlp.cn/aigc%e7%94%a8%e4%ba%8e%e6%99%ba%e8%83%bd%e5%86%99%e4%bd%9c%e7%9a%84%e6%8a%80%e6%9c%af%e7%bb%bc%e8%bf%b0) 
 - [2024-07-01-周三晚8点揭秘：真假Agent大对决-|-AICon直播不容错过](https://posts.careerengine.us/p/66824aaf7ca0d7541f79eea3) 
 - [2024-07-01-挖矿不行了找AI接盘！挖矿公司们来抢云厂商生意：收入涨10倍，今年的算力早就卖完了！](https://posts.careerengine.us/p/66824a9b48a4e1538c92d2a3) 
