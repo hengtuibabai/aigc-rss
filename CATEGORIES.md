@@ -1,6 +1,6 @@
 ##
 
-:alarm_clock: 更新时间: 2024-10-16 10:00:08，:rocket: 更新条数: +10， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-10-16 12:00:11，:rocket: 更新条数: +10， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -149,26 +149,26 @@
 </summary>
 
 
-- [2024-10-16-推荐一门非常实用的英语邮件写作课程](https://www.52nlp.cn/%e6%8e%a8%e8%8d%90%e4%b8%80%e9%97%a8%e9%9d%9e%e5%b8%b8%e5%ae%9e%e7%94%a8%e7%9a%84%e8%8b%b1%e8%af%ad%e9%82%ae%e4%bb%b6%e5%86%99%e4%bd%9c%e8%af%be%e7%a8%8b)  
-- [2024-10-16-推荐一门在线课程：写出你的第一部小说](https://www.52nlp.cn/%e6%8e%a8%e8%8d%90%e4%b8%80%e9%97%a8%e5%9c%a8%e7%ba%bf%e8%af%be%e7%a8%8b%ef%bc%9a%e5%86%99%e5%87%ba%e4%bd%a0%e7%9a%84%e7%ac%ac%e4%b8%80%e9%83%a8%e5%b0%8f%e8%af%b4)  
-- [2024-10-16-课程推荐：写我们自己故事的艺术](https://www.52nlp.cn/%e8%af%be%e7%a8%8b%e6%8e%a8%e8%8d%90%ef%bc%9a%e5%86%99%e6%88%91%e4%bb%ac%e8%87%aa%e5%b7%b1%e6%95%85%e4%ba%8b%e7%9a%84%e8%89%ba%e6%9c%af)  
-- [2024-10-16-深入了解Coursera的《编写Java应用程序代码》课程](https://www.52nlp.cn/%e6%b7%b1%e5%85%a5%e4%ba%86%e8%a7%a3coursera%e7%9a%84%e3%80%8a%e7%bc%96%e5%86%99java%e5%ba%94%e7%94%a8%e7%a8%8b%e5%ba%8f%e4%bb%a3%e7%a0%81%e3%80%8b%e8%af%be%e7%a8%8b)  
-- [2024-10-16-提升大学写作技能：课程推荐《Writing-Skills-for-University-Success》](https://www.52nlp.cn/%e6%8f%90%e5%8d%87%e5%a4%a7%e5%ad%a6%e5%86%99%e4%bd%9c%e6%8a%80%e8%83%bd%ef%bc%9a%e8%af%be%e7%a8%8b%e6%8e%a8%e8%8d%90%e3%80%8awriting-skills-for-university-success%e3%80%8b)  
-- [2024-10-16-提升职场写作能力的推荐课程：专业邮件与备忘录写作](https://www.52nlp.cn/%e6%8f%90%e5%8d%87%e8%81%8c%e5%9c%ba%e5%86%99%e4%bd%9c%e8%83%bd%e5%8a%9b%e7%9a%84%e6%8e%a8%e8%8d%90%e8%af%be%e7%a8%8b%ef%bc%9a%e4%b8%93%e4%b8%9a%e9%82%ae%e4%bb%b6%e4%b8%8e%e5%a4%87%e5%bf%98%e5%bd%95)  
-- [2024-10-16-工程领导者写作技能培训课程评测与推荐](https://www.52nlp.cn/%e5%b7%a5%e7%a8%8b%e9%a2%86%e5%af%bc%e8%80%85%e5%86%99%e4%bd%9c%e6%8a%80%e8%83%bd%e5%9f%b9%e8%ae%ad%e8%af%be%e7%a8%8b%e8%af%84%e6%b5%8b%e4%b8%8e%e6%8e%a8%e8%8d%90)  
-- [2024-10-16-提升写作与编辑能力的必修课：课程评测《写作与编辑：结构与组织》](https://www.52nlp.cn/%e6%8f%90%e5%8d%87%e5%86%99%e4%bd%9c%e4%b8%8e%e7%bc%96%e8%be%91%e8%83%bd%e5%8a%9b%e7%9a%84%e5%bf%85%e4%bf%ae%e8%af%be%ef%bc%9a%e8%af%be%e7%a8%8b%e8%af%84%e6%b5%8b%e3%80%8a%e5%86%99%e4%bd%9c%e4%b8%8e)  
-- [2024-10-16-提升职场竞争力的秘密武器：写出令人眼前一亮的简历与求职信](https://www.52nlp.cn/%e6%8f%90%e5%8d%87%e8%81%8c%e5%9c%ba%e7%ab%9e%e4%ba%89%e5%8a%9b%e7%9a%84%e7%a7%98%e5%af%86%e6%ad%a6%e5%99%a8%ef%bc%9a%e5%86%99%e5%87%ba%e4%bb%a4%e4%ba%ba%e7%9c%bc%e5%89%8d%e4%b8%80%e4%ba%ae%e7%9a%84)  
-- [2024-10-16-深度评测：Coursera上的个人随笔写作课程](https://www.52nlp.cn/%e6%b7%b1%e5%ba%a6%e8%af%84%e6%b5%8b%ef%bc%9acoursera%e4%b8%8a%e7%9a%84%e4%b8%aa%e4%ba%ba%e9%9a%8f%e7%ac%94%e5%86%99%e4%bd%9c%e8%af%be%e7%a8%8b)  
-- [2024-10-16-深入探讨经济政策制定课程](https://www.52nlp.cn/%e6%b7%b1%e5%85%a5%e6%8e%a2%e8%ae%a8%e7%bb%8f%e6%b5%8e%e6%94%bf%e7%ad%96%e5%88%b6%e5%ae%9a%e8%af%be%e7%a8%8b)  
-- [2024-10-16-深度评测：Coursera上的《艺术说服》课程](https://www.52nlp.cn/%e6%b7%b1%e5%ba%a6%e8%af%84%e6%b5%8b%ef%bc%9acoursera%e4%b8%8a%e7%9a%84%e3%80%8a%e8%89%ba%e6%9c%af%e8%af%b4%e6%9c%8d%e3%80%8b%e8%af%be%e7%a8%8b)  
-- [2024-10-16-学习不容错过的课程：فن-التفاوض-|-The-Art-of-Negotiation（谈判艺术）](https://www.52nlp.cn/%e5%ad%a6%e4%b9%a0%e4%b8%8d%e5%ae%b9%e9%94%99%e8%bf%87%e7%9a%84%e8%af%be%e7%a8%8b%ef%bc%9a%d9%81%d9%86-%d8%a7%d9%84%d8%aa%d9%81%d8%a7%d9%88%d8%b6-the-art-of-negotiation%ef%bc%88%e8%b0%88%e5%88%a4)  
-- [2024-10-16-探索投资课程：投资指南](https://www.52nlp.cn/%e6%8e%a2%e7%b4%a2%e6%8a%95%e8%b5%84%e8%af%be%e7%a8%8b%ef%bc%9a%e6%8a%95%e8%b5%84%e6%8c%87%e5%8d%97)  
-- [2024-10-16-深入分析，值得推荐的”客户服务“خدمة-العملاء课程](https://www.52nlp.cn/%e6%b7%b1%e5%85%a5%e5%88%86%e6%9e%90%ef%bc%8c%e5%80%bc%e5%be%97%e6%8e%a8%e8%8d%90%e7%9a%84%e5%ae%a2%e6%88%b7%e6%9c%8d%e5%8a%a1%d8%ae%d8%af%d9%85%d8%a9-%d8%a7%d9%84%d8%b9%d9%85%d9%84)  
-- [2024-10-16-课程推荐：深入学习项目管理的精品课程](https://www.52nlp.cn/%e8%af%be%e7%a8%8b%e6%8e%a8%e8%8d%90%ef%bc%9a%e6%b7%b1%e5%85%a5%e5%ad%a6%e4%b9%a0%e9%a1%b9%e7%9b%ae%e7%ae%a1%e7%90%86%e7%9a%84%e7%b2%be%e5%93%81%e8%af%be%e7%a8%8b)  
-- [2024-10-16-探索创意问题解决课程：为你的职业生涯添砖加瓦](https://www.52nlp.cn/%e6%8e%a2%e7%b4%a2%e5%88%9b%e6%84%8f%e9%97%ae%e9%a2%98%e8%a7%a3%e5%86%b3%e8%af%be%e7%a8%8b%ef%bc%9a%e4%b8%ba%e4%bd%a0%e7%9a%84%e8%81%8c%e4%b8%9a%e7%94%9f%e6%b6%af%e6%b7%bb%e7%a0%96%e5%8a%a0%e7%93%a6)  
-- [2024-10-16-提升职业能力，开启自我培训之旅——《تطوير-تميزك-المهني-والتدريب-الذاتي》课程推荐](https://www.52nlp.cn/%e6%8f%90%e5%8d%87%e8%81%8c%e4%b8%9a%e8%83%bd%e5%8a%9b%ef%bc%8c%e5%bc%80%e5%90%af%e8%87%aa%e6%88%91%e5%9f%b9%e8%ae%ad%e4%b9%8b%e6%97%85-%e3%80%8a%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%aa)  
-- [2024-10-16-推荐：Coursera上的数据分析课程-Analyzing-Data-to-Answer-Questions](https://www.52nlp.cn/%e6%8e%a8%e8%8d%90%ef%bc%9acoursera%e4%b8%8a%e7%9a%84%e6%95%b0%e6%8d%ae%e5%88%86%e6%9e%90%e8%af%be%e7%a8%8b-analyzing-data-to-answer-questions)  
+- [2024-10-16-深入解析《Architecting-with-Google-Kubernetes-Engine-日本語版》课程](https://www.52nlp.cn/%e6%b7%b1%e5%85%a5%e8%a7%a3%e6%9e%90%e3%80%8aarchitecting-with-google-kubernetes-engine-%e6%97%a5%e6%9c%ac%e8%aa%9e%e7%89%88%e3%80%8b%e8%af%be%e7%a8%8b)  
+- [2024-10-16-深入评测：谷歌数据分析分析课程在Coursera上的推荐](https://www.52nlp.cn/%e6%b7%b1%e5%85%a5%e8%af%84%e6%b5%8b%ef%bc%9a%e8%b0%b7%e6%ad%8c%e6%95%b0%e6%8d%ae%e5%88%86%e6%9e%90%e5%88%86%e6%9e%90%e8%af%be%e7%a8%8b%e5%9c%a8coursera%e4%b8%8a%e7%9a%84%e6%8e%a8%e8%8d%90)  
+- [2024-10-16-在Coursera上学习Google-Kubernetes引擎架构-我的评价与推荐](https://www.52nlp.cn/%e5%9c%a8coursera%e4%b8%8a%e5%ad%a6%e4%b9%a0google-kubernetes%e5%bc%95%e6%93%8e%e6%9e%b6%e6%9e%84-%e6%88%91%e7%9a%84%e8%af%84%e4%bb%b7%e4%b8%8e%e6%8e%a8%e8%8d%90)  
+- [2024-10-16-深入探索北极的奥秘——提升你的北极知识：《Arctic-Meltdown》课程推荐](https://www.52nlp.cn/%e6%b7%b1%e5%85%a5%e6%8e%a2%e7%b4%a2%e5%8c%97%e6%9e%81%e7%9a%84%e5%a5%a5%e7%a7%98-%e6%8f%90%e5%8d%87%e4%bd%a0%e7%9a%84%e5%8c%97%e6%9e%81%e7%9f%a5%e8%af%86%ef%bc%9a%e3%80%8aarctic-melt)  
+- [2024-10-16-深度解析：历程在Coursera上的Google-Kubernetes-Engine架构课程](https://www.52nlp.cn/%e6%b7%b1%e5%ba%a6%e8%a7%a3%e6%9e%90%ef%bc%9a%e5%8e%86%e7%a8%8b%e5%9c%a8coursera%e4%b8%8a%e7%9a%84google-kubernetes-engine%e6%9e%b6%e6%9e%84%e8%af%be%e7%a8%8b)  
+- [2024-10-16-探讨与推荐：Coursera上的《连接规划与业务转型》课程](https://www.52nlp.cn/%e6%8e%a2%e8%ae%a8%e4%b8%8e%e6%8e%a8%e8%8d%90%ef%bc%9acoursera%e4%b8%8a%e7%9a%84%e3%80%8a%e8%bf%9e%e6%8e%a5%e8%a7%84%e5%88%92%e4%b8%8e%e4%b8%9a%e5%8a%a1%e8%bd%ac%e5%9e%8b%e3%80%8b%e8%af%be%e7%a8%8b)  
+- [2024-10-16-查阅与推荐：Coursera上Google-Cloud的API开发课程](https://www.52nlp.cn/%e6%9f%a5%e9%98%85%e4%b8%8e%e6%8e%a8%e8%8d%90%ef%bc%9acoursera%e4%b8%8agoogle-cloud%e7%9a%84api%e5%bc%80%e5%8f%91%e8%af%be%e7%a8%8b)  
+- [2024-10-16-深度评测：Google-Cloud的Apigee-API平台私有云课程](https://www.52nlp.cn/%e6%b7%b1%e5%ba%a6%e8%af%84%e6%b5%8b%ef%bc%9agoogle-cloud%e7%9a%84apigee-api%e5%b9%b3%e5%8f%b0%e7%a7%81%e6%9c%89%e4%ba%91%e8%af%be%e7%a8%8b)  
+- [2024-10-16-IBM-AI-工程课程详评与推荐](https://www.52nlp.cn/ibm-ai-%e5%b7%a5%e7%a8%8b%e8%af%be%e7%a8%8b%e8%af%a6%e8%af%84%e4%b8%8e%e6%8e%a8%e8%8d%90)  
+- [2024-10-16-探索现代牙科医学中的艺术与科学结合——宾夕法尼亚大学Coursera课程推荐](https://www.52nlp.cn/%e6%8e%a2%e7%b4%a2%e7%8e%b0%e4%bb%a3%e7%89%99%e7%a7%91%e5%8c%bb%e5%ad%a6%e4%b8%ad%e7%9a%84%e8%89%ba%e6%9c%af%e4%b8%8e%e7%a7%91%e5%ad%a6%e7%bb%93%e5%90%88-%e5%ae%be%e5%a4%95%e6%b3%95)  
 - [2024-10-16-课程推荐：在职场中实现幸福-|-Achieving-Happiness-at-Work](https://www.52nlp.cn/%e8%af%be%e7%a8%8b%e6%8e%a8%e8%8d%90%ef%bc%9a%e5%9c%a8%e8%81%8c%e5%9c%ba%e4%b8%ad%e5%ae%9e%e7%8e%b0%e5%b9%b8%e7%a6%8f-achieving-happiness-at-work)  
+- [2024-10-16-推荐：Coursera上的数据分析课程-Analyzing-Data-to-Answer-Questions](https://www.52nlp.cn/%e6%8e%a8%e8%8d%90%ef%bc%9acoursera%e4%b8%8a%e7%9a%84%e6%95%b0%e6%8d%ae%e5%88%86%e6%9e%90%e8%af%be%e7%a8%8b-analyzing-data-to-answer-questions)  
+- [2024-10-16-提升职业能力，开启自我培训之旅——《تطوير-تميزك-المهني-والتدريب-الذاتي》课程推荐](https://www.52nlp.cn/%e6%8f%90%e5%8d%87%e8%81%8c%e4%b8%9a%e8%83%bd%e5%8a%9b%ef%bc%8c%e5%bc%80%e5%90%af%e8%87%aa%e6%88%91%e5%9f%b9%e8%ae%ad%e4%b9%8b%e6%97%85-%e3%80%8a%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%aa)  
+- [2024-10-16-探索创意问题解决课程：为你的职业生涯添砖加瓦](https://www.52nlp.cn/%e6%8e%a2%e7%b4%a2%e5%88%9b%e6%84%8f%e9%97%ae%e9%a2%98%e8%a7%a3%e5%86%b3%e8%af%be%e7%a8%8b%ef%bc%9a%e4%b8%ba%e4%bd%a0%e7%9a%84%e8%81%8c%e4%b8%9a%e7%94%9f%e6%b6%af%e6%b7%bb%e7%a0%96%e5%8a%a0%e7%93%a6)  
+- [2024-10-16-课程推荐：深入学习项目管理的精品课程](https://www.52nlp.cn/%e8%af%be%e7%a8%8b%e6%8e%a8%e8%8d%90%ef%bc%9a%e6%b7%b1%e5%85%a5%e5%ad%a6%e4%b9%a0%e9%a1%b9%e7%9b%ae%e7%ae%a1%e7%90%86%e7%9a%84%e7%b2%be%e5%93%81%e8%af%be%e7%a8%8b)  
+- [2024-10-16-深入分析，值得推荐的”客户服务“خدمة-العملاء课程](https://www.52nlp.cn/%e6%b7%b1%e5%85%a5%e5%88%86%e6%9e%90%ef%bc%8c%e5%80%bc%e5%be%97%e6%8e%a8%e8%8d%90%e7%9a%84%e5%ae%a2%e6%88%b7%e6%9c%8d%e5%8a%a1%d8%ae%d8%af%d9%85%d8%a9-%d8%a7%d9%84%d8%b9%d9%85%d9%84)  
+- [2024-10-16-探索投资课程：投资指南](https://www.52nlp.cn/%e6%8e%a2%e7%b4%a2%e6%8a%95%e8%b5%84%e8%af%be%e7%a8%8b%ef%bc%9a%e6%8a%95%e8%b5%84%e6%8c%87%e5%8d%97)  
+- [2024-10-16-学习不容错过的课程：فن-التفاوض-|-The-Art-of-Negotiation（谈判艺术）](https://www.52nlp.cn/%e5%ad%a6%e4%b9%a0%e4%b8%8d%e5%ae%b9%e9%94%99%e8%bf%87%e7%9a%84%e8%af%be%e7%a8%8b%ef%bc%9a%d9%81%d9%86-%d8%a7%d9%84%d8%aa%d9%81%d8%a7%d9%88%d8%b6-the-art-of-negotiation%ef%bc%88%e8%b0%88%e5%88%a4)  
+- [2024-10-16-深度评测：Coursera上的《艺术说服》课程](https://www.52nlp.cn/%e6%b7%b1%e5%ba%a6%e8%af%84%e6%b5%8b%ef%bc%9acoursera%e4%b8%8a%e7%9a%84%e3%80%8a%e8%89%ba%e6%9c%af%e8%af%b4%e6%9c%8d%e3%80%8b%e8%af%be%e7%a8%8b)  
+- [2024-10-16-深入探讨经济政策制定课程](https://www.52nlp.cn/%e6%b7%b1%e5%85%a5%e6%8e%a2%e8%ae%a8%e7%bb%8f%e6%b5%8e%e6%94%bf%e7%ad%96%e5%88%b6%e5%ae%9a%e8%af%be%e7%a8%8b)  
 - [......【查看更多】......](/details/我爱自然语言处理.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
